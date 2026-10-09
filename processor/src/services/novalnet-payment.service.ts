@@ -3923,7 +3923,7 @@ private buildTransactionComments(
             eventTID,
             formattedAmount,
             date,
-	    time,
+	    	time,
           });
 
         case "DUE_DATE":
