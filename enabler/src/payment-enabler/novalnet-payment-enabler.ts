@@ -27,7 +27,7 @@ import { SepaBuilder } from "../components/payment-methods/sepa/sepa";
 import { AchBuilder } from "../components/payment-methods/ach/ach";
 import { CreditcardBuilder } from "../components/payment-methods/creditcard/creditcard";
 import { FakeSdk } from "../fake-sdk";
-import { showPaymentError, showReturnedPaymentError } from './payment-error';
+import { clearPaymentError, showPaymentError, showReturnedPaymentError } from './payment-error';
 import {
   EnablerOptions,
   PaymentComponentBuilder,
@@ -83,7 +83,10 @@ export class NovalnetPaymentEnabler implements PaymentEnabler {
         sessionId: options.sessionId,
         environment: sdkOptions.environment,
         locale: options.locale,
-        onComplete: options.onComplete || (() => {}),
+        onComplete: (result) => {
+          clearPaymentError();
+          options.onComplete?.(result);
+        },
         onError: (error, context) => {
           showPaymentError(error);
           options.onError?.(error, context);
