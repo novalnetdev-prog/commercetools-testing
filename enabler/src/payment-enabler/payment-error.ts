@@ -1,7 +1,20 @@
 const QUERY_PARAMETER = 'novalnetPaymentError';
 const ALERT_ID = 'novalnet-payment-error';
 
-/** Checkout owns its generic error banner, so show the provider reason beside it. */
+export function clearPaymentError(): void {
+  document.getElementById(ALERT_ID)?.remove();
+}
+
+export async function readProcessorPaymentError(response: Response, fallback: string): Promise<string> {
+  try {
+    const payload = await response.json();
+    const reason = payload?.transactionStatusText;
+    return typeof reason === 'string' && reason.trim() ? reason : fallback;
+  } catch {
+    return fallback;
+  }
+}
+
 export function showPaymentError(error: unknown): void {
   const message = error instanceof Error ? error.message : String(error ?? '');
   if (!message.trim()) return;
@@ -12,9 +25,13 @@ export function showPaymentError(error: unknown): void {
     alert.id = ALERT_ID;
     alert.setAttribute('role', 'alert');
     alert.style.cssText =
-      'position:sticky;top:0;z-index:1000;padding:12px 16px;margin:12px 0;border:1px solid #c62828;border-radius:4px;color:#8e1616;background:#fff4f4;';
-    document.body.prepend(alert);
+      'position:fixed;top:16px;right:16px;z-index:2147483647;box-sizing:border-box;' +
+      'width:calc(100% - 32px);max-width:420px;padding:12px 16px;' +
+      'border:1px solid #c62828;border-radius:4px;color:#8e1616;' +
+      'background:#fff4f4;box-shadow:0 3px 12px rgba(0,0,0,.2);';
   }
+
+  document.body.append(alert);
 
   alert.textContent = message.slice(0, 500);
 }
