@@ -1,8 +1,8 @@
 (function(){"use strict";(function(e,r){try{if(typeof document<"u"){var o=document.createElement("style");o.setAttribute("data-ctc-connector-styles","");for(const t in r.attributes)o.setAttribute(t,r.attributes[t]);o.appendChild(document.createTextNode(e)),document.head.appendChild(o)}}catch(t){console.error("vite-plugin-css-injected-by-js",t)}})('._paymentForm_1jvri_36{margin-top:1rem}._row_1jvri_46{display:flex;flex-direction:row;gap:1rem;position:relative}._wrapper_1jvri_40 *{font-family:Roboto,sans-serif;box-sizing:border-box}._twoColumnLayout_1jvri_65{display:flex;flex-flow:row wrap;column-gap:1rem}._twoColumnLayout_1jvri_65>*{flex:1 0 150px}._container_1jvri_74{margin-top:1rem}._container_1jvri_74 iframe{height:3.317rem!important;border:1px solid #949494!important;border-radius:.25rem;padding-left:1rem;width:100%;float:none!important}._container_1jvri_74 ._input_1jvri_85{display:inline-block;position:relative;width:100%;margin-bottom:1rem}._container_1jvri_74 ._error_1jvri_91{color:#d32f2f;font-size:.75rem;padding:0 .75rem .25rem 1rem;position:rela2tive}.is-valid iframe{border:1px solid #949494!important}.is-onfocus iframe{border:2px solid #186ec3!important}.is-onfocus~._error_1jvri_91{display:none}.is-invalid iframe,._inputError_1jvri_111 :not(.is-onfocus) iframe,._inputErrorEmptyText_1jvri_112 iframe{border:2px solid #d32f2f!important}._floatingLabel_1jvri_117{position:absolute;pointer-events:none;left:.8rem;top:1rem;transition:.2s ease all;background-color:#fff;padding:0 .25rem;width:80%}._wrapper_1jvri_40{position:relative;width:100%;margin-bottom:1rem}._cardIcons_1jvri_134{display:none}.is-empty~._cardIcons_1jvri_134{display:block}.is-empty~._floatingCard_1jvri_142{display:none}.is-onfocus~._floatingLabel_1jvri_117,.is-valid~._floatingLabel_1jvri_117,.is-invalid:not(._inputEmpty_1jvri_148)~._floatingLabel_1jvri_117{top:-.5rem;font-size:.75rem;width:auto}.is-valid~._floatingLabel_1jvri_117{color:#949494}.is-onfocus~._floatingLabel_1jvri_117{color:#186ec3}.is-invalid:not(._inputEmpty_1jvri_148)~._floatingLabel_1jvri_117{color:#d32f2f}._inputErrorEmptyText_1jvri_112~._floatingLabel_1jvri_117{color:#000}._floatingCard_1jvri_142{position:absolute!important;pointer-events:none;right:0;top:0;transition:.2s ease all;background-color:#fff;padding:0 .25rem}._subHeading_1jvri_53{color:#5e6368;font-size:.8125rem;margin-top:.125rem;margin-bottom:1.5rem}._alert_1jvri_189{margin:1em 0}._cardRow_1jvri_193{display:flex;gap:.25rem;margin-top:.5rem}._cardIcon_1jvri_134{border:1px solid #d9d9d9;border-radius:.156rem}._hidden_1jvri_204{display:none}:root,:host{--ctc-button: #186ec3;--ctc-button-hover: color-mix(in srgb, var(--ctc-button), black 15%);--ctc-button-disabled: #e0e0e0;--ctc-button-text: #fff;--ctc-button-disabled-text: #a2a3a4}:root,:host{--ctc-radio: #186ec3}:root,:host{--ctc-checkbox: #186ec3}:root,:host{--ctc-input-field-focus: #186ec3}:root,:host{--ctc-font-family: "Roboto", sans-serif}@supports not (background: color-mix(in srgb,red 50%,blue)){:root{--ctc-button-hover: var(--ctc-button)}}._button_1eyp1_41{color:var(--ctc-button-text);padding:.5rem 1.375rem;background-color:var(--ctc-button);border:0 none;border-radius:.25rem;font-size:.9375rem;font-weight:400;font-family:var(--ctc-font-family);text-transform:uppercase;line-height:1.5rem;letter-spacing:.43px;box-shadow:0 2px 2px #00000024,0 3px 1px -2px #0000001f,0 1px 5px #0003;background-position:center;transition:background-color .8s;cursor:pointer}._button_1eyp1_41:hover{background:var(--ctc-button-hover) radial-gradient(circle,transparent 1%,var(--ctc-button-hover) 1%) center/15000%}._button_1eyp1_41:active{background-color:var(--ctc-button-hover);background-size:100%;transition:background-color 0s}._button_1eyp1_41:disabled{color:var(--ctc-button-disabled-text);background-color:var(--ctc-button-disabled);pointer-events:none;box-shadow:none}._button_1eyp1_41:disabled:hover,._button_1eyp1_41:disabled:active{background-color:var(--ctc-button-disabled);cursor:not-allowed}._fullWidth_1eyp1_77{width:100%}._linkButton_1eyp1_81{text-decoration:none;text-transform:unset;background:none;border-bottom:1.5px solid transparent;box-shadow:none;padding:0;border-radius:0;color:var(--ctc-button);font-size:1rem;font-weight:700;line-height:1.188rem;letter-spacing:.009rem}._linkButton_1eyp1_81:hover,._linkButton_1eyp1_81:active{cursor:pointer;border-bottom:1.5px solid var(--ctc-button);background:none}._linkButton_1eyp1_81._disabled_1eyp1_100{color:#a2a3a4;text-decoration:none;cursor:not-allowed;pointer-events:none;background-color:transparent;box-shadow:none}._linkButton_1eyp1_81._disabled_1eyp1_100:hover,._linkButton_1eyp1_81._disabled_1eyp1_100:active{border-bottom:none}._lowOpacityButton_1eyp1_112{background-color:color-mix(in srgb,var(--ctc-button),transparent 30%)}@supports not (background: color-mix(in srgb,red 50%,blue)){._lowOpacityButton_1eyp1_112{background-color:var(--ctc-button);opacity:60%}}._textButton_1eyp1_122{background-color:transparent;color:var(--ctc-button);box-shadow:none;padding:.5rem .6875rem}._textButton_1eyp1_122:hover{background:color-mix(in srgb,var(--ctc-button),transparent 90%) radial-gradient(circle,transparent 1%,color-mix(in srgb,var(--ctc-button),transparent 90%) 1%) center/15000%}._textButton_1eyp1_122:active{background-color:color-mix(in srgb,var(--ctc-button),transparent 90%);background-size:100%;transition:background-color 0s}._textButton_1eyp1_122:focus{background-color:color-mix(in srgb,var(--ctc-button),transparent 90%)}._textButton_1eyp1_122:disabled{background-color:transparent;color:#e0e0e0}._errorButton_1eyp1_144{color:#b52323;background:transparent;border:1px solid transparent;transition:none;box-shadow:none;outline:none}._errorButton_1eyp1_144:hover{background:#fbdada}._errorButton_1eyp1_144:active{border:1px solid #b52323;background:#ffc5c5}._errorButton_1eyp1_144:disabled{background-color:transparent;color:#e0e0e0}',{})})();
-var Ve = Object.defineProperty;
-var Qe = (s, d, r) => d in s ? Ve(s, d, { enumerable: !0, configurable: !0, writable: !0, value: r }) : s[d] = r;
-var g = (s, d, r) => Qe(s, typeof d != "symbol" ? d + "" : d, r);
-var H = /* @__PURE__ */ ((s) => (s.applepay = "applepay", s.bancontactcard = "bcmc", s.eps = "eps", s.googlepay = "googlepay", s.ideal = "ideal", s.invoice = "invoice", s.paypal = "paypal", s.prepayment = "prepayment", s.GuaranteedInvoice = "GuaranteedInvoice", s.GuaranteedSepa = "GuaranteedSepa", s.twint = "twint", s.sepa = "sepa", s.ach = "ach", s.creditcard = "creditcard", s.onlinebanktransfer = "onlinebanktransfer", s.alipay = "alipay", s.bancontact = "bancontact", s.blik = "blik", s.mbway = "mbway", s.multibanco = "multibanco", s.postfinance = "postfinance", s.postfinancecard = "postfinancecard", s.przelewy24 = "przelewy24", s.trustly = "trustly", s.wechatpay = "wechatpay", s.pix = "pix", s.boleto = "boleto", s.bizum = "bizum", s.bancomat = "BANCOMATPAY", s.kakaopay = "kakaoPay", s.naverpay = "naverpay", s))(H || {});
+var Qe = Object.defineProperty;
+var et = (o, d, r) => d in o ? Qe(o, d, { enumerable: !0, configurable: !0, writable: !0, value: r }) : o[d] = r;
+var g = (o, d, r) => et(o, typeof d != "symbol" ? d + "" : d, r);
+var H = /* @__PURE__ */ ((o) => (o.applepay = "applepay", o.bancontactcard = "bcmc", o.eps = "eps", o.googlepay = "googlepay", o.ideal = "ideal", o.invoice = "invoice", o.paypal = "paypal", o.prepayment = "prepayment", o.GuaranteedInvoice = "GuaranteedInvoice", o.GuaranteedSepa = "GuaranteedSepa", o.twint = "twint", o.sepa = "sepa", o.ach = "ach", o.creditcard = "creditcard", o.onlinebanktransfer = "onlinebanktransfer", o.alipay = "alipay", o.bancontact = "bancontact", o.blik = "blik", o.mbway = "mbway", o.multibanco = "multibanco", o.postfinance = "postfinance", o.postfinancecard = "postfinancecard", o.przelewy24 = "przelewy24", o.trustly = "trustly", o.wechatpay = "wechatpay", o.pix = "pix", o.boleto = "boleto", o.bizum = "bizum", o.bancomat = "BANCOMATPAY", o.kakaopay = "kakaoPay", o.naverpay = "naverpay", o))(H || {});
 class D {
   constructor(d, r, e) {
     g(this, "paymentMethod");
@@ -25,16 +25,16 @@ class D {
     this.paymentCompleted || (this.paymentCompleted = !0, this.onComplete(d));
   }
 }
-const et = "_wrapper_1jvri_40", B = {
-  wrapper: et
-}, tt = "_button_1eyp1_41", nt = "_fullWidth_1eyp1_77", v = {
-  button: tt,
-  fullWidth: nt
+const tt = "_wrapper_1jvri_40", B = {
+  wrapper: tt
+}, nt = "_button_1eyp1_41", rt = "_fullWidth_1eyp1_77", v = {
+  button: nt,
+  fullWidth: rt
 };
-var Ae = {}, xe;
-function rt() {
-  return xe || (xe = 1, function(s) {
-    Object.defineProperty(s, "__esModule", { value: !0 }), s.Type = s.StandardType = s.ExtendedTypeBuilder = s.StandardTypeBuilder = s.TypeBuilder = s.TemplateLiteralGenerator = s.TemplateLiteralFinite = s.TemplateLiteralParser = s.TemplateLiteralParserError = s.TemplateLiteralResolver = s.TemplateLiteralPattern = s.KeyResolver = s.ObjectMap = s.TypeClone = s.TypeExtends = s.TypeExtendsResult = s.ExtendsUndefined = s.TypeGuard = s.TypeGuardUnknownTypeError = s.FormatRegistry = s.TypeRegistry = s.PatternStringExact = s.PatternNumberExact = s.PatternBooleanExact = s.PatternString = s.PatternNumber = s.PatternBoolean = s.Kind = s.Hint = s.Modifier = void 0, s.Modifier = Symbol.for("TypeBox.Modifier"), s.Hint = Symbol.for("TypeBox.Hint"), s.Kind = Symbol.for("TypeBox.Kind"), s.PatternBoolean = "(true|false)", s.PatternNumber = "(0|[1-9][0-9]*)", s.PatternString = "(.*)", s.PatternBooleanExact = `^${s.PatternBoolean}$`, s.PatternNumberExact = `^${s.PatternNumber}$`, s.PatternStringExact = `^${s.PatternString}$`;
+var Ae = {}, _e;
+function ot() {
+  return _e || (_e = 1, function(o) {
+    Object.defineProperty(o, "__esModule", { value: !0 }), o.Type = o.StandardType = o.ExtendedTypeBuilder = o.StandardTypeBuilder = o.TypeBuilder = o.TemplateLiteralGenerator = o.TemplateLiteralFinite = o.TemplateLiteralParser = o.TemplateLiteralParserError = o.TemplateLiteralResolver = o.TemplateLiteralPattern = o.KeyResolver = o.ObjectMap = o.TypeClone = o.TypeExtends = o.TypeExtendsResult = o.ExtendsUndefined = o.TypeGuard = o.TypeGuardUnknownTypeError = o.FormatRegistry = o.TypeRegistry = o.PatternStringExact = o.PatternNumberExact = o.PatternBooleanExact = o.PatternString = o.PatternNumber = o.PatternBoolean = o.Kind = o.Hint = o.Modifier = void 0, o.Modifier = Symbol.for("TypeBox.Modifier"), o.Hint = Symbol.for("TypeBox.Hint"), o.Kind = Symbol.for("TypeBox.Kind"), o.PatternBoolean = "(true|false)", o.PatternNumber = "(0|[1-9][0-9]*)", o.PatternString = "(.*)", o.PatternBooleanExact = `^${o.PatternBoolean}$`, o.PatternNumberExact = `^${o.PatternNumber}$`, o.PatternStringExact = `^${o.PatternString}$`;
     var d;
     (function(h) {
       const c = /* @__PURE__ */ new Map();
@@ -58,7 +58,7 @@ function rt() {
         return c.get(w);
       }
       h.Get = T;
-    })(d = s.TypeRegistry || (s.TypeRegistry = {})), function(h) {
+    })(d = o.TypeRegistry || (o.TypeRegistry = {})), function(h) {
       const c = /* @__PURE__ */ new Map();
       function f() {
         return new Map(c);
@@ -80,259 +80,259 @@ function rt() {
         return c.get(w);
       }
       h.Get = T;
-    }(s.FormatRegistry || (s.FormatRegistry = {}));
+    }(o.FormatRegistry || (o.FormatRegistry = {}));
     class r extends Error {
       constructor(c) {
         super("TypeGuard: Unknown type"), this.schema = c;
       }
     }
-    s.TypeGuardUnknownTypeError = r;
+    o.TypeGuardUnknownTypeError = r;
     var e;
     (function(h) {
-      function c(i) {
-        return typeof i == "object" && i !== null && !Array.isArray(i);
+      function c(s) {
+        return typeof s == "object" && s !== null && !Array.isArray(s);
       }
-      function f(i) {
-        return typeof i == "object" && i !== null && Array.isArray(i);
+      function f(s) {
+        return typeof s == "object" && s !== null && Array.isArray(s);
       }
-      function b(i) {
+      function b(s) {
         try {
-          return new RegExp(i), !0;
+          return new RegExp(s), !0;
         } catch {
           return !1;
         }
       }
-      function p(i) {
-        if (typeof i != "string")
+      function p(s) {
+        if (typeof s != "string")
           return !1;
-        for (let X = 0; X < i.length; X++) {
-          const z = i.charCodeAt(X);
+        for (let X = 0; X < s.length; X++) {
+          const z = s.charCodeAt(X);
           if (z >= 7 && z <= 13 || z === 27 || z === 127)
             return !1;
         }
         return !0;
       }
-      function y(i) {
-        return typeof i == "bigint";
+      function y(s) {
+        return typeof s == "bigint";
       }
-      function T(i) {
-        return typeof i == "string";
+      function T(s) {
+        return typeof s == "string";
       }
-      function w(i) {
-        return typeof i == "number" && globalThis.Number.isFinite(i);
+      function w(s) {
+        return typeof s == "number" && globalThis.Number.isFinite(s);
       }
-      function E(i) {
-        return typeof i == "boolean";
+      function E(s) {
+        return typeof s == "boolean";
       }
-      function N(i) {
-        return i === void 0 || i !== void 0 && y(i);
+      function N(s) {
+        return s === void 0 || s !== void 0 && y(s);
       }
-      function $(i) {
-        return i === void 0 || i !== void 0 && w(i);
+      function $(s) {
+        return s === void 0 || s !== void 0 && w(s);
       }
-      function j(i) {
-        return i === void 0 || i !== void 0 && E(i);
+      function j(s) {
+        return s === void 0 || s !== void 0 && E(s);
       }
-      function R(i) {
-        return i === void 0 || i !== void 0 && T(i);
+      function R(s) {
+        return s === void 0 || s !== void 0 && T(s);
       }
-      function P(i) {
-        return i === void 0 || i !== void 0 && T(i) && p(i) && b(i);
+      function P(s) {
+        return s === void 0 || s !== void 0 && T(s) && p(s) && b(s);
       }
-      function I(i) {
-        return i === void 0 || i !== void 0 && T(i) && p(i);
+      function I(s) {
+        return s === void 0 || s !== void 0 && T(s) && p(s);
       }
-      function q(i) {
-        return i === void 0 || ee(i);
+      function q(s) {
+        return s === void 0 || ee(s);
       }
-      function J(i) {
-        return k(i) && i[s.Kind] === "Any" && R(i.$id);
+      function J(s) {
+        return O(s) && s[o.Kind] === "Any" && R(s.$id);
       }
       h.TAny = J;
-      function K(i) {
-        return k(i) && i[s.Kind] === "Array" && i.type === "array" && R(i.$id) && ee(i.items) && $(i.minItems) && $(i.maxItems) && j(i.uniqueItems);
+      function K(s) {
+        return O(s) && s[o.Kind] === "Array" && s.type === "array" && R(s.$id) && ee(s.items) && $(s.minItems) && $(s.maxItems) && j(s.uniqueItems);
       }
       h.TArray = K;
-      function M(i) {
-        return k(i) && i[s.Kind] === "BigInt" && i.type === "null" && i.typeOf === "BigInt" && R(i.$id) && N(i.multipleOf) && N(i.minimum) && N(i.maximum) && N(i.exclusiveMinimum) && N(i.exclusiveMaximum);
+      function M(s) {
+        return O(s) && s[o.Kind] === "BigInt" && s.type === "null" && s.typeOf === "BigInt" && R(s.$id) && N(s.multipleOf) && N(s.minimum) && N(s.maximum) && N(s.exclusiveMinimum) && N(s.exclusiveMaximum);
       }
       h.TBigInt = M;
-      function G(i) {
-        return k(i) && i[s.Kind] === "Boolean" && i.type === "boolean" && R(i.$id);
+      function G(s) {
+        return O(s) && s[o.Kind] === "Boolean" && s.type === "boolean" && R(s.$id);
       }
       h.TBoolean = G;
-      function Y(i) {
-        if (!(k(i) && i[s.Kind] === "Constructor" && i.type === "object" && i.instanceOf === "Constructor" && R(i.$id) && f(i.parameters) && ee(i.returns)))
+      function Y(s) {
+        if (!(O(s) && s[o.Kind] === "Constructor" && s.type === "object" && s.instanceOf === "Constructor" && R(s.$id) && f(s.parameters) && ee(s.returns)))
           return !1;
-        for (const X of i.parameters)
+        for (const X of s.parameters)
           if (!ee(X))
             return !1;
         return !0;
       }
       h.TConstructor = Y;
-      function be(i) {
-        return k(i) && i[s.Kind] === "Date" && i.type === "object" && i.instanceOf === "Date" && R(i.$id) && $(i.minimumTimestamp) && $(i.maximumTimestamp) && $(i.exclusiveMinimumTimestamp) && $(i.exclusiveMaximumTimestamp);
+      function be(s) {
+        return O(s) && s[o.Kind] === "Date" && s.type === "object" && s.instanceOf === "Date" && R(s.$id) && $(s.minimumTimestamp) && $(s.maximumTimestamp) && $(s.exclusiveMinimumTimestamp) && $(s.exclusiveMaximumTimestamp);
       }
       h.TDate = be;
-      function Te(i) {
-        if (!(k(i) && i[s.Kind] === "Function" && i.type === "object" && i.instanceOf === "Function" && R(i.$id) && f(i.parameters) && ee(i.returns)))
+      function Te(s) {
+        if (!(O(s) && s[o.Kind] === "Function" && s.type === "object" && s.instanceOf === "Function" && R(s.$id) && f(s.parameters) && ee(s.returns)))
           return !1;
-        for (const X of i.parameters)
+        for (const X of s.parameters)
           if (!ee(X))
             return !1;
         return !0;
       }
       h.TFunction = Te;
-      function de(i) {
-        return k(i) && i[s.Kind] === "Integer" && i.type === "integer" && R(i.$id) && $(i.multipleOf) && $(i.minimum) && $(i.maximum) && $(i.exclusiveMinimum) && $(i.exclusiveMaximum);
+      function de(s) {
+        return O(s) && s[o.Kind] === "Integer" && s.type === "integer" && R(s.$id) && $(s.multipleOf) && $(s.minimum) && $(s.maximum) && $(s.exclusiveMinimum) && $(s.exclusiveMaximum);
       }
       h.TInteger = de;
-      function we(i) {
-        if (!(k(i) && i[s.Kind] === "Intersect" && f(i.allOf) && R(i.type) && (j(i.unevaluatedProperties) || q(i.unevaluatedProperties)) && R(i.$id)) || "type" in i && i.type !== "object")
+      function we(s) {
+        if (!(O(s) && s[o.Kind] === "Intersect" && f(s.allOf) && R(s.type) && (j(s.unevaluatedProperties) || q(s.unevaluatedProperties)) && R(s.$id)) || "type" in s && s.type !== "object")
           return !1;
-        for (const X of i.allOf)
+        for (const X of s.allOf)
           if (!ee(X))
             return !1;
         return !0;
       }
       h.TIntersect = we;
-      function k(i) {
-        return c(i) && s.Kind in i && typeof i[s.Kind] == "string";
+      function O(s) {
+        return c(s) && o.Kind in s && typeof s[o.Kind] == "string";
       }
-      h.TKind = k;
-      function ce(i) {
-        return k(i) && i[s.Kind] === "Literal" && R(i.$id) && (T(i.const) || w(i.const) || E(i.const) || y(i.const));
+      h.TKind = O;
+      function ce(s) {
+        return O(s) && s[o.Kind] === "Literal" && R(s.$id) && (T(s.const) || w(s.const) || E(s.const) || y(s.const));
       }
       h.TLiteral = ce;
-      function fe(i) {
-        return k(i) && i[s.Kind] === "Never" && c(i.not) && globalThis.Object.getOwnPropertyNames(i.not).length === 0;
+      function fe(s) {
+        return O(s) && s[o.Kind] === "Never" && c(s.not) && globalThis.Object.getOwnPropertyNames(s.not).length === 0;
       }
       h.TNever = fe;
-      function le(i) {
-        return k(i) && i[s.Kind] === "Not" && f(i.allOf) && i.allOf.length === 2 && c(i.allOf[0]) && ee(i.allOf[0].not) && ee(i.allOf[1]);
+      function le(s) {
+        return O(s) && s[o.Kind] === "Not" && f(s.allOf) && s.allOf.length === 2 && c(s.allOf[0]) && ee(s.allOf[0].not) && ee(s.allOf[1]);
       }
       h.TNot = le;
-      function ye(i) {
-        return k(i) && i[s.Kind] === "Null" && i.type === "null" && R(i.$id);
+      function ye(s) {
+        return O(s) && s[o.Kind] === "Null" && s.type === "null" && R(s.$id);
       }
       h.TNull = ye;
-      function ge(i) {
-        return k(i) && i[s.Kind] === "Number" && i.type === "number" && R(i.$id) && $(i.multipleOf) && $(i.minimum) && $(i.maximum) && $(i.exclusiveMinimum) && $(i.exclusiveMaximum);
+      function ge(s) {
+        return O(s) && s[o.Kind] === "Number" && s.type === "number" && R(s.$id) && $(s.multipleOf) && $(s.minimum) && $(s.maximum) && $(s.exclusiveMinimum) && $(s.exclusiveMaximum);
       }
       h.TNumber = ge;
-      function Se(i) {
-        if (!(k(i) && i[s.Kind] === "Object" && i.type === "object" && R(i.$id) && c(i.properties) && (j(i.additionalProperties) || q(i.additionalProperties)) && $(i.minProperties) && $(i.maxProperties)))
+      function Se(s) {
+        if (!(O(s) && s[o.Kind] === "Object" && s.type === "object" && R(s.$id) && c(s.properties) && (j(s.additionalProperties) || q(s.additionalProperties)) && $(s.minProperties) && $(s.maxProperties)))
           return !1;
-        for (const [X, z] of Object.entries(i.properties))
+        for (const [X, z] of Object.entries(s.properties))
           if (!p(X) || !ee(z))
             return !1;
         return !0;
       }
       h.TObject = Se;
-      function Pe(i) {
-        return k(i) && i[s.Kind] === "Promise" && i.type === "object" && i.instanceOf === "Promise" && R(i.$id) && ee(i.item);
+      function Pe(s) {
+        return O(s) && s[o.Kind] === "Promise" && s.type === "object" && s.instanceOf === "Promise" && R(s.$id) && ee(s.item);
       }
       h.TPromise = Pe;
-      function Be(i) {
-        if (!(k(i) && i[s.Kind] === "Record" && i.type === "object" && R(i.$id) && i.additionalProperties === !1 && c(i.patternProperties)))
+      function Be(s) {
+        if (!(O(s) && s[o.Kind] === "Record" && s.type === "object" && R(s.$id) && s.additionalProperties === !1 && c(s.patternProperties)))
           return !1;
-        const X = Object.keys(i.patternProperties);
-        return !(X.length !== 1 || !b(X[0]) || !ee(i.patternProperties[X[0]]));
+        const X = Object.keys(s.patternProperties);
+        return !(X.length !== 1 || !b(X[0]) || !ee(s.patternProperties[X[0]]));
       }
       h.TRecord = Be;
-      function ve(i) {
-        return k(i) && i[s.Kind] === "Ref" && R(i.$id) && T(i.$ref);
+      function ve(s) {
+        return O(s) && s[o.Kind] === "Ref" && R(s.$id) && T(s.$ref);
       }
       h.TRef = ve;
-      function ae(i) {
-        return k(i) && i[s.Kind] === "String" && i.type === "string" && R(i.$id) && $(i.minLength) && $(i.maxLength) && P(i.pattern) && I(i.format);
+      function ae(s) {
+        return O(s) && s[o.Kind] === "String" && s.type === "string" && R(s.$id) && $(s.minLength) && $(s.maxLength) && P(s.pattern) && I(s.format);
       }
       h.TString = ae;
-      function Ee(i) {
-        return k(i) && i[s.Kind] === "Symbol" && i.type === "null" && i.typeOf === "Symbol" && R(i.$id);
+      function Ee(s) {
+        return O(s) && s[o.Kind] === "Symbol" && s.type === "null" && s.typeOf === "Symbol" && R(s.$id);
       }
       h.TSymbol = Ee;
-      function pe(i) {
-        return k(i) && i[s.Kind] === "TemplateLiteral" && i.type === "string" && T(i.pattern) && i.pattern[0] === "^" && i.pattern[i.pattern.length - 1] === "$";
+      function pe(s) {
+        return O(s) && s[o.Kind] === "TemplateLiteral" && s.type === "string" && T(s.pattern) && s.pattern[0] === "^" && s.pattern[s.pattern.length - 1] === "$";
       }
       h.TTemplateLiteral = pe;
-      function V(i) {
-        return k(i) && i[s.Kind] === "This" && R(i.$id) && T(i.$ref);
+      function V(s) {
+        return O(s) && s[o.Kind] === "This" && R(s.$id) && T(s.$ref);
       }
       h.TThis = V;
-      function Ce(i) {
-        if (!(k(i) && i[s.Kind] === "Tuple" && i.type === "array" && R(i.$id) && w(i.minItems) && w(i.maxItems) && i.minItems === i.maxItems))
+      function Ce(s) {
+        if (!(O(s) && s[o.Kind] === "Tuple" && s.type === "array" && R(s.$id) && w(s.minItems) && w(s.maxItems) && s.minItems === s.maxItems))
           return !1;
-        if (i.items === void 0 && i.additionalItems === void 0 && i.minItems === 0)
+        if (s.items === void 0 && s.additionalItems === void 0 && s.minItems === 0)
           return !0;
-        if (!f(i.items))
+        if (!f(s.items))
           return !1;
-        for (const X of i.items)
+        for (const X of s.items)
           if (!ee(X))
             return !1;
         return !0;
       }
       h.TTuple = Ce;
-      function Ie(i) {
-        return k(i) && i[s.Kind] === "Undefined" && i.type === "null" && i.typeOf === "Undefined" && R(i.$id);
+      function Ie(s) {
+        return O(s) && s[o.Kind] === "Undefined" && s.type === "null" && s.typeOf === "Undefined" && R(s.$id);
       }
       h.TUndefined = Ie;
-      function ue(i) {
-        if (!(k(i) && i[s.Kind] === "Union" && f(i.anyOf) && R(i.$id)))
+      function ue(s) {
+        if (!(O(s) && s[o.Kind] === "Union" && f(s.anyOf) && R(s.$id)))
           return !1;
-        for (const X of i.anyOf)
+        for (const X of s.anyOf)
           if (!ee(X))
             return !1;
         return !0;
       }
       h.TUnion = ue;
-      function he(i) {
-        return ue(i) && i.anyOf.every((X) => ce(X) && typeof X.const == "string");
+      function me(s) {
+        return ue(s) && s.anyOf.every((X) => ce(X) && typeof X.const == "string");
       }
-      h.TUnionLiteral = he;
-      function re(i) {
-        return k(i) && i[s.Kind] === "Uint8Array" && i.type === "object" && R(i.$id) && i.instanceOf === "Uint8Array" && $(i.minByteLength) && $(i.maxByteLength);
+      h.TUnionLiteral = me;
+      function re(s) {
+        return O(s) && s[o.Kind] === "Uint8Array" && s.type === "object" && R(s.$id) && s.instanceOf === "Uint8Array" && $(s.minByteLength) && $(s.maxByteLength);
       }
       h.TUint8Array = re;
-      function Ue(i) {
-        return k(i) && i[s.Kind] === "Unknown" && R(i.$id);
+      function Ue(s) {
+        return O(s) && s[o.Kind] === "Unknown" && R(s.$id);
       }
       h.TUnknown = Ue;
-      function me(i) {
-        return k(i) && i[s.Kind] === "Unsafe";
+      function he(s) {
+        return O(s) && s[o.Kind] === "Unsafe";
       }
-      h.TUnsafe = me;
-      function Oe(i) {
-        return k(i) && i[s.Kind] === "Void" && i.type === "null" && i.typeOf === "Void" && R(i.$id);
+      h.TUnsafe = he;
+      function Oe(s) {
+        return O(s) && s[o.Kind] === "Void" && s.type === "null" && s.typeOf === "Void" && R(s.$id);
       }
       h.TVoid = Oe;
-      function Le(i) {
-        return c(i) && i[s.Modifier] === "ReadonlyOptional";
+      function Le(s) {
+        return c(s) && s[o.Modifier] === "ReadonlyOptional";
       }
       h.TReadonlyOptional = Le;
-      function Ne(i) {
-        return c(i) && i[s.Modifier] === "Readonly";
+      function Ne(s) {
+        return c(s) && s[o.Modifier] === "Readonly";
       }
       h.TReadonly = Ne;
-      function $e(i) {
-        return c(i) && i[s.Modifier] === "Optional";
+      function $e(s) {
+        return c(s) && s[o.Modifier] === "Optional";
       }
       h.TOptional = $e;
-      function ee(i) {
-        return typeof i == "object" && (J(i) || K(i) || G(i) || M(i) || Y(i) || be(i) || Te(i) || de(i) || we(i) || ce(i) || fe(i) || le(i) || ye(i) || ge(i) || Se(i) || Pe(i) || Be(i) || ve(i) || ae(i) || Ee(i) || pe(i) || V(i) || Ce(i) || Ie(i) || ue(i) || re(i) || Ue(i) || me(i) || Oe(i) || k(i) && d.Has(i[s.Kind]));
+      function ee(s) {
+        return typeof s == "object" && (J(s) || K(s) || G(s) || M(s) || Y(s) || be(s) || Te(s) || de(s) || we(s) || ce(s) || fe(s) || le(s) || ye(s) || ge(s) || Se(s) || Pe(s) || Be(s) || ve(s) || ae(s) || Ee(s) || pe(s) || V(s) || Ce(s) || Ie(s) || ue(s) || re(s) || Ue(s) || he(s) || Oe(s) || O(s) && d.Has(s[o.Kind]));
       }
       h.TSchema = ee;
-    })(e = s.TypeGuard || (s.TypeGuard = {})), function(h) {
+    })(e = o.TypeGuard || (o.TypeGuard = {})), function(h) {
       function c(f) {
-        return f[s.Kind] === "Undefined" ? !0 : f[s.Kind] === "Union" ? f.anyOf.some((p) => c(p)) : !1;
+        return f[o.Kind] === "Undefined" ? !0 : f[o.Kind] === "Union" ? f.anyOf.some((p) => c(p)) : !1;
       }
       h.Check = c;
-    }(s.ExtendsUndefined || (s.ExtendsUndefined = {}));
+    }(o.ExtendsUndefined || (o.ExtendsUndefined = {}));
     var t;
     (function(h) {
       h[h.Union = 0] = "Union", h[h.True = 1] = "True", h[h.False = 2] = "False";
-    })(t = s.TypeExtendsResult || (s.TypeExtendsResult = {}));
-    var o;
+    })(t = o.TypeExtendsResult || (o.TypeExtendsResult = {}));
+    var i;
     (function(h) {
       function c(a) {
         return a === t.False ? t.False : t.True;
@@ -389,7 +389,7 @@ function rt() {
         return typeof a.const == "boolean";
       }
       function G(a, n) {
-        return e.TIntersect(n) ? I(a, n) : e.TUnion(n) ? z(a, n) : e.TNever(n) ? Y() : e.TUnknown(n) ? Q() : e.TAny(n) ? f() : e.TObject(n) ? V(a, n) : e.TRecord(n) ? re(a, n) : e.TString(n) ? me(a) : e.TNumber(n) ? de(a) : e.TInteger(n) ? R(a) : e.TBoolean(n) ? w(a) : e.TLiteral(n) && n.const === a.const ? t.True : t.False;
+        return e.TIntersect(n) ? I(a, n) : e.TUnion(n) ? z(a, n) : e.TNever(n) ? Y() : e.TUnknown(n) ? Q() : e.TAny(n) ? f() : e.TObject(n) ? V(a, n) : e.TRecord(n) ? re(a, n) : e.TString(n) ? he(a) : e.TNumber(n) ? de(a) : e.TInteger(n) ? R(a) : e.TBoolean(n) ? w(a) : e.TLiteral(n) && n.const === a.const ? t.True : t.False;
       }
       function Y(a, n) {
         return t.False;
@@ -406,50 +406,50 @@ function rt() {
       function we(a, n) {
         return e.TIntersect(n) ? I(a, n) : e.TUnion(n) ? z(a, n) : e.TNever(n) ? Y() : e.TUnknown(n) ? Q() : e.TAny(n) ? f() : e.TObject(n) ? V(a, n) : e.TRecord(n) ? re(a, n) : e.TInteger(n) || e.TNumber(n) ? t.True : t.False;
       }
-      function k(a, n) {
+      function O(a, n) {
         return globalThis.Object.keys(a.properties).length === n;
       }
       function ce(a) {
         return ae(a);
       }
       function fe(a) {
-        return k(a, 0) || k(a, 1) && "description" in a.properties && e.TUnion(a.properties.description) && a.properties.description.anyOf.length === 2 && (e.TString(a.properties.description.anyOf[0]) && e.TUndefined(a.properties.description.anyOf[1]) || e.TString(a.properties.description.anyOf[1]) && e.TUndefined(a.properties.description.anyOf[0]));
+        return O(a, 0) || O(a, 1) && "description" in a.properties && e.TUnion(a.properties.description) && a.properties.description.anyOf.length === 2 && (e.TString(a.properties.description.anyOf[0]) && e.TUndefined(a.properties.description.anyOf[1]) || e.TString(a.properties.description.anyOf[1]) && e.TUndefined(a.properties.description.anyOf[0]));
       }
       function le(a) {
-        return k(a, 0);
+        return O(a, 0);
       }
       function ye(a) {
-        return k(a, 0);
+        return O(a, 0);
       }
       function ge(a) {
-        return k(a, 0);
+        return O(a, 0);
       }
       function Se(a) {
-        return k(a, 0);
+        return O(a, 0);
       }
       function Pe(a) {
         return ae(a);
       }
       function Be(a) {
-        const n = s.Type.Number();
-        return k(a, 0) || k(a, 1) && "length" in a.properties && c(W(a.properties.length, n)) === t.True;
+        const n = o.Type.Number();
+        return O(a, 0) || O(a, 1) && "length" in a.properties && c(W(a.properties.length, n)) === t.True;
       }
       function ve(a) {
-        return k(a, 0);
+        return O(a, 0);
       }
       function ae(a) {
-        const n = s.Type.Number();
-        return k(a, 0) || k(a, 1) && "length" in a.properties && c(W(a.properties.length, n)) === t.True;
+        const n = o.Type.Number();
+        return O(a, 0) || O(a, 1) && "length" in a.properties && c(W(a.properties.length, n)) === t.True;
       }
       function Ee(a) {
-        const n = s.Type.Function([s.Type.Any()], s.Type.Any());
-        return k(a, 0) || k(a, 1) && "then" in a.properties && c(W(a.properties.then, n)) === t.True;
+        const n = o.Type.Function([o.Type.Any()], o.Type.Any());
+        return O(a, 0) || O(a, 1) && "then" in a.properties && c(W(a.properties.then, n)) === t.True;
       }
       function pe(a, n) {
         return W(a, n) === t.False || e.TOptional(a) && !e.TOptional(n) ? t.False : t.True;
       }
       function V(a, n) {
-        return e.TUnknown(a) ? t.False : e.TAny(a) ? t.Union : e.TNever(a) || e.TLiteral(a) && J(a) && ce(n) || e.TLiteral(a) && K(a) && le(n) || e.TLiteral(a) && M(a) && ye(n) || e.TSymbol(a) && fe(n) || e.TBigInt(a) && ge(n) || e.TString(a) && ce(n) || e.TSymbol(a) && fe(n) || e.TNumber(a) && le(n) || e.TInteger(a) && le(n) || e.TBoolean(a) && ye(n) || e.TUint8Array(a) && Pe(n) || e.TDate(a) && Se(n) || e.TConstructor(a) && ve(n) || e.TFunction(a) && Be(n) ? t.True : e.TRecord(a) && e.TString(ue(a)) ? n[s.Hint] === "Record" ? t.True : t.False : e.TRecord(a) && e.TNumber(ue(a)) && k(n, 0) ? t.True : t.False;
+        return e.TUnknown(a) ? t.False : e.TAny(a) ? t.Union : e.TNever(a) || e.TLiteral(a) && J(a) && ce(n) || e.TLiteral(a) && K(a) && le(n) || e.TLiteral(a) && M(a) && ye(n) || e.TSymbol(a) && fe(n) || e.TBigInt(a) && ge(n) || e.TString(a) && ce(n) || e.TSymbol(a) && fe(n) || e.TNumber(a) && le(n) || e.TInteger(a) && le(n) || e.TBoolean(a) && ye(n) || e.TUint8Array(a) && Pe(n) || e.TDate(a) && Se(n) || e.TConstructor(a) && ve(n) || e.TFunction(a) && Be(n) ? t.True : e.TRecord(a) && e.TString(ue(a)) ? n[o.Hint] === "Record" ? t.True : t.False : e.TRecord(a) && e.TNumber(ue(a)) && O(n, 0) ? t.True : t.False;
       }
       function Ce(a, n) {
         if (e.TIntersect(n))
@@ -473,38 +473,38 @@ function rt() {
         return e.TIntersect(n) ? I(a, n) : e.TUnion(n) ? z(a, n) : e.TUnknown(n) ? Q() : e.TAny(n) ? f() : e.TObject(n) && Ee(n) ? t.True : e.TPromise(n) ? c(W(a.item, n.item)) : t.False;
       }
       function ue(a) {
-        if (s.PatternNumberExact in a.patternProperties)
-          return s.Type.Number();
-        if (s.PatternStringExact in a.patternProperties)
-          return s.Type.String();
+        if (o.PatternNumberExact in a.patternProperties)
+          return o.Type.Number();
+        if (o.PatternStringExact in a.patternProperties)
+          return o.Type.String();
         throw Error("TypeExtends: Cannot get record key");
       }
-      function he(a) {
-        if (s.PatternNumberExact in a.patternProperties)
-          return a.patternProperties[s.PatternNumberExact];
-        if (s.PatternStringExact in a.patternProperties)
-          return a.patternProperties[s.PatternStringExact];
+      function me(a) {
+        if (o.PatternNumberExact in a.patternProperties)
+          return a.patternProperties[o.PatternNumberExact];
+        if (o.PatternStringExact in a.patternProperties)
+          return a.patternProperties[o.PatternStringExact];
         throw Error("TypeExtends: Cannot get record value");
       }
       function re(a, n) {
-        const _ = ue(n), ie = he(n);
+        const _ = ue(n), ie = me(n);
         if (e.TLiteral(a) && J(a) && e.TNumber(_) && c(W(a, ie)) === t.True)
           return t.True;
         if (e.TUint8Array(a) && e.TNumber(_) || e.TString(a) && e.TNumber(_) || e.TArray(a) && e.TNumber(_))
           return W(a, ie);
         if (e.TObject(a)) {
-          for (const Je of globalThis.Object.keys(a.properties))
-            if (pe(ie, a.properties[Je]) === t.False)
+          for (const Ve of globalThis.Object.keys(a.properties))
+            if (pe(ie, a.properties[Ve]) === t.False)
               return t.False;
           return t.True;
         }
         return t.False;
       }
       function Ue(a, n) {
-        const _ = he(a);
-        return e.TIntersect(n) ? I(a, n) : e.TUnion(n) ? z(a, n) : e.TUnknown(n) ? Q() : e.TAny(n) ? f() : e.TObject(n) ? V(a, n) : e.TRecord(n) ? W(_, he(n)) : t.False;
+        const _ = me(a);
+        return e.TIntersect(n) ? I(a, n) : e.TUnion(n) ? z(a, n) : e.TUnknown(n) ? Q() : e.TAny(n) ? f() : e.TObject(n) ? V(a, n) : e.TRecord(n) ? W(_, me(n)) : t.False;
       }
-      function me(a, n) {
+      function he(a, n) {
         return e.TLiteral(a) && typeof a.const == "string" || e.TString(a) ? t.True : t.False;
       }
       function Oe(a, n) {
@@ -522,28 +522,28 @@ function rt() {
       function ee(a, n) {
         return e.TIntersect(n) ? I(a, n) : e.TUnion(n) ? z(a, n) : e.TUnknown(n) ? Q() : e.TAny(n) ? f() : e.TObject(n) && ae(n) || e.TArray(n) && $e(a, n) ? t.True : !e.TTuple(n) || a.items === void 0 && n.items !== void 0 || a.items !== void 0 && n.items === void 0 ? t.False : a.items === void 0 && n.items === void 0 || a.items.every((_, ie) => W(_, n.items[ie]) === t.True) ? t.True : t.False;
       }
-      function i(a, n) {
+      function s(a, n) {
         return e.TIntersect(n) ? I(a, n) : e.TUnion(n) ? z(a, n) : e.TUnknown(n) ? Q() : e.TAny(n) ? f() : e.TObject(n) ? V(a, n) : e.TRecord(n) ? re(a, n) : e.TUint8Array(n) ? t.True : t.False;
       }
       function X(a, n) {
-        return e.TIntersect(n) ? I(a, n) : e.TUnion(n) ? z(a, n) : e.TNever(n) ? Y() : e.TUnknown(n) ? Q() : e.TAny(n) ? f() : e.TObject(n) ? V(a, n) : e.TRecord(n) ? re(a, n) : e.TVoid(n) ? Ze(a) : e.TUndefined(n) ? t.True : t.False;
+        return e.TIntersect(n) ? I(a, n) : e.TUnion(n) ? z(a, n) : e.TNever(n) ? Y() : e.TUnknown(n) ? Q() : e.TAny(n) ? f() : e.TObject(n) ? V(a, n) : e.TRecord(n) ? re(a, n) : e.TVoid(n) ? Ye(a) : e.TUndefined(n) ? t.True : t.False;
       }
       function z(a, n) {
         return n.anyOf.some((_) => W(a, _) === t.True) ? t.True : t.False;
       }
-      function Xe(a, n) {
+      function We(a, n) {
         return a.anyOf.every((_) => W(_, n) === t.True) ? t.True : t.False;
       }
       function Q(a, n) {
         return t.True;
       }
-      function We(a, n) {
-        return e.TIntersect(n) ? I(a, n) : e.TUnion(n) ? z(a, n) : e.TAny(n) ? f() : e.TString(n) ? me(a) : e.TNumber(n) ? de(a) : e.TInteger(n) ? R(a) : e.TBoolean(n) ? w(a) : e.TArray(n) ? p(a) : e.TTuple(n) ? Ne(a) : e.TObject(n) ? V(a, n) : e.TUnknown(n) ? t.True : t.False;
-      }
       function Ze(a, n) {
-        return e.TUndefined(a) || e.TUndefined(a) ? t.True : t.False;
+        return e.TIntersect(n) ? I(a, n) : e.TUnion(n) ? z(a, n) : e.TAny(n) ? f() : e.TString(n) ? he(a) : e.TNumber(n) ? de(a) : e.TInteger(n) ? R(a) : e.TBoolean(n) ? w(a) : e.TArray(n) ? p(a) : e.TTuple(n) ? Ne(a) : e.TObject(n) ? V(a, n) : e.TUnknown(n) ? t.True : t.False;
       }
       function Ye(a, n) {
+        return e.TUndefined(a) || e.TUndefined(a) ? t.True : t.False;
+      }
+      function Ge(a, n) {
         return e.TIntersect(n) ? I(a, n) : e.TUnion(n) ? z(a, n) : e.TUnknown(n) ? Q() : e.TAny(n) ? f() : e.TObject(n) ? V(a, n) : e.TVoid(n) ? t.True : t.False;
       }
       function W(a, n) {
@@ -590,22 +590,22 @@ function rt() {
         if (e.TPromise(a))
           return Ie(a, n);
         if (e.TUint8Array(a))
-          return i(a, n);
+          return s(a, n);
         if (e.TUndefined(a))
           return X(a, n);
         if (e.TUnion(a))
-          return Xe(a, n);
-        if (e.TUnknown(a))
           return We(a, n);
+        if (e.TUnknown(a))
+          return Ze(a, n);
         if (e.TVoid(a))
-          return Ye(a, n);
-        throw Error(`TypeExtends: Unknown left type operand '${a[s.Kind]}'`);
+          return Ge(a, n);
+        throw Error(`TypeExtends: Unknown left type operand '${a[o.Kind]}'`);
       }
-      function Ge(a, n) {
+      function Je(a, n) {
         return W(a, n);
       }
-      h.Extends = Ge;
-    })(o = s.TypeExtends || (s.TypeExtends = {}));
+      h.Extends = Je;
+    })(i = o.TypeExtends || (o.TypeExtends = {}));
     var u;
     (function(h) {
       function c(w) {
@@ -628,26 +628,26 @@ function rt() {
         return { ...y(w), ...E };
       }
       h.Clone = T;
-    })(u = s.TypeClone || (s.TypeClone = {}));
+    })(u = o.TypeClone || (o.TypeClone = {}));
     var l;
     (function(h) {
       function c(T, w) {
-        return s.Type.Intersect(T.allOf.map((E) => p(E, w)), { ...T });
+        return o.Type.Intersect(T.allOf.map((E) => p(E, w)), { ...T });
       }
       function f(T, w) {
-        return s.Type.Union(T.anyOf.map((E) => p(E, w)), { ...T });
+        return o.Type.Union(T.anyOf.map((E) => p(E, w)), { ...T });
       }
       function b(T, w) {
         return w(T);
       }
       function p(T, w) {
-        return T[s.Kind] === "Intersect" ? c(T, w) : T[s.Kind] === "Union" ? f(T, w) : T[s.Kind] === "Object" ? b(T, w) : T;
+        return T[o.Kind] === "Intersect" ? c(T, w) : T[o.Kind] === "Union" ? f(T, w) : T[o.Kind] === "Object" ? b(T, w) : T;
       }
       function y(T, w, E) {
         return { ...p(u.Clone(T, {}), w), ...E };
       }
       h.Map = y;
-    })(l = s.ObjectMap || (s.ObjectMap = {}));
+    })(l = o.ObjectMap || (o.ObjectMap = {}));
     var m;
     (function(h) {
       function c(w) {
@@ -670,7 +670,7 @@ function rt() {
         return y(w);
       }
       h.Resolve = T;
-    })(m = s.KeyResolver || (s.KeyResolver = {}));
+    })(m = o.KeyResolver || (o.KeyResolver = {}));
     var S;
     (function(h) {
       function c(p) {
@@ -682,41 +682,41 @@ function rt() {
         if (e.TUnion(p))
           return `(${p.anyOf.map((w) => f(w, y)).join("|")})`;
         if (e.TNumber(p))
-          return `${y}${s.PatternNumber}`;
+          return `${y}${o.PatternNumber}`;
         if (e.TInteger(p))
-          return `${y}${s.PatternNumber}`;
+          return `${y}${o.PatternNumber}`;
         if (e.TBigInt(p))
-          return `${y}${s.PatternNumber}`;
+          return `${y}${o.PatternNumber}`;
         if (e.TString(p))
-          return `${y}${s.PatternString}`;
+          return `${y}${o.PatternString}`;
         if (e.TLiteral(p))
           return `${y}${c(p.const.toString())}`;
         if (e.TBoolean(p))
-          return `${y}${s.PatternBoolean}`;
-        throw e.TNever(p) ? Error("TemplateLiteralPattern: TemplateLiteral cannot operate on types of TNever") : Error(`TemplateLiteralPattern: Unexpected Kind '${p[s.Kind]}'`);
+          return `${y}${o.PatternBoolean}`;
+        throw e.TNever(p) ? Error("TemplateLiteralPattern: TemplateLiteral cannot operate on types of TNever") : Error(`TemplateLiteralPattern: Unexpected Kind '${p[o.Kind]}'`);
       }
       function b(p) {
         return `^${p.map((y) => f(y, "")).join("")}$`;
       }
       h.Create = b;
-    })(S = s.TemplateLiteralPattern || (s.TemplateLiteralPattern = {}));
+    })(S = o.TemplateLiteralPattern || (o.TemplateLiteralPattern = {}));
     var A;
     (function(h) {
       function c(f) {
         const b = Z.ParseExact(f.pattern);
         if (!te.Check(b))
-          return s.Type.String();
-        const p = [...ne.Generate(b)].map((y) => s.Type.Literal(y));
-        return s.Type.Union(p);
+          return o.Type.String();
+        const p = [...ne.Generate(b)].map((y) => o.Type.Literal(y));
+        return o.Type.Union(p);
       }
       h.Resolve = c;
-    })(A = s.TemplateLiteralResolver || (s.TemplateLiteralResolver = {}));
+    })(A = o.TemplateLiteralResolver || (o.TemplateLiteralResolver = {}));
     class C extends Error {
       constructor(c) {
         super(c);
       }
     }
-    s.TemplateLiteralParserError = C;
+    o.TemplateLiteralParserError = C;
     var Z;
     (function(h) {
       function c(P, I, q) {
@@ -802,7 +802,7 @@ function rt() {
         return j(P.slice(1, P.length - 1));
       }
       h.ParseExact = R;
-    })(Z = s.TemplateLiteralParser || (s.TemplateLiteralParser = {}));
+    })(Z = o.TemplateLiteralParser || (o.TemplateLiteralParser = {}));
     var te;
     (function(h) {
       function c(y) {
@@ -828,7 +828,7 @@ function rt() {
         throw Error("TemplateLiteralFinite: Unknown expression type");
       }
       h.Check = p;
-    })(te = s.TemplateLiteralFinite || (s.TemplateLiteralFinite = {}));
+    })(te = o.TemplateLiteralFinite || (o.TemplateLiteralFinite = {}));
     var ne;
     (function(h) {
       function* c(T) {
@@ -858,7 +858,7 @@ function rt() {
         throw Error("TemplateLiteralGenerator: Unknown expression");
       }
       h.Generate = y;
-    })(ne = s.TemplateLiteralGenerator || (s.TemplateLiteralGenerator = {}));
+    })(ne = o.TemplateLiteralGenerator || (o.TemplateLiteralGenerator = {}));
     let oe = 0;
     class L {
       /** `[Utility]` Creates a schema without `static` and `params` types */
@@ -870,37 +870,37 @@ function rt() {
         return JSON.parse(JSON.stringify(c));
       }
     }
-    s.TypeBuilder = L;
-    class U extends L {
+    o.TypeBuilder = L;
+    class k extends L {
       // ------------------------------------------------------------------------
       // Modifiers
       // ------------------------------------------------------------------------
       /** `[Modifier]` Creates a Optional property */
       Optional(c) {
-        return { [s.Modifier]: "Optional", ...u.Clone(c, {}) };
+        return { [o.Modifier]: "Optional", ...u.Clone(c, {}) };
       }
       /** `[Modifier]` Creates a ReadonlyOptional property */
       ReadonlyOptional(c) {
-        return { [s.Modifier]: "ReadonlyOptional", ...u.Clone(c, {}) };
+        return { [o.Modifier]: "ReadonlyOptional", ...u.Clone(c, {}) };
       }
       /** `[Modifier]` Creates a Readonly object or property */
       Readonly(c) {
-        return { [s.Modifier]: "Readonly", ...c };
+        return { [o.Modifier]: "Readonly", ...c };
       }
       // ------------------------------------------------------------------------
       // Types
       // ------------------------------------------------------------------------
       /** `[Standard]` Creates an Any type */
       Any(c = {}) {
-        return this.Create({ ...c, [s.Kind]: "Any" });
+        return this.Create({ ...c, [o.Kind]: "Any" });
       }
       /** `[Standard]` Creates an Array type */
       Array(c, f = {}) {
-        return this.Create({ ...f, [s.Kind]: "Array", type: "array", items: u.Clone(c, {}) });
+        return this.Create({ ...f, [o.Kind]: "Array", type: "array", items: u.Clone(c, {}) });
       }
       /** `[Standard]` Creates a Boolean type */
       Boolean(c = {}) {
-        return this.Create({ ...c, [s.Kind]: "Boolean", type: "boolean" });
+        return this.Create({ ...c, [o.Kind]: "Boolean", type: "boolean" });
       }
       /** `[Standard]` Creates a Composite object type. */
       Composite(c, f) {
@@ -915,22 +915,22 @@ function rt() {
         for (const E of c)
           for (const [N, $] of Object.entries(E.properties)) {
             const j = u.Clone($, {});
-            if (T.has(N) || delete j[s.Modifier], N in w) {
-              const R = o.Extends(w[N], j) !== t.False, P = o.Extends(j, w[N]) !== t.False;
-              !R && !P && (w[N] = s.Type.Never()), !R && P && (w[N] = j);
+            if (T.has(N) || delete j[o.Modifier], N in w) {
+              const R = i.Extends(w[N], j) !== t.False, P = i.Extends(j, w[N]) !== t.False;
+              !R && !P && (w[N] = o.Type.Never()), !R && P && (w[N] = j);
             } else
               w[N] = j;
           }
-        return y.size > 0 ? this.Create({ ...f, [s.Kind]: "Object", [s.Hint]: "Composite", type: "object", properties: w, required: [...y] }) : this.Create({ ...f, [s.Kind]: "Object", [s.Hint]: "Composite", type: "object", properties: w });
+        return y.size > 0 ? this.Create({ ...f, [o.Kind]: "Object", [o.Hint]: "Composite", type: "object", properties: w, required: [...y] }) : this.Create({ ...f, [o.Kind]: "Object", [o.Hint]: "Composite", type: "object", properties: w });
       }
       /** `[Standard]` Creates a Enum type */
       Enum(c, f = {}) {
-        const p = globalThis.Object.keys(c).filter((y) => isNaN(y)).map((y) => c[y]).map((y) => typeof y == "string" ? { [s.Kind]: "Literal", type: "string", const: y } : { [s.Kind]: "Literal", type: "number", const: y });
-        return this.Create({ ...f, [s.Kind]: "Union", anyOf: p });
+        const p = globalThis.Object.keys(c).filter((y) => isNaN(y)).map((y) => c[y]).map((y) => typeof y == "string" ? { [o.Kind]: "Literal", type: "string", const: y } : { [o.Kind]: "Literal", type: "number", const: y });
+        return this.Create({ ...f, [o.Kind]: "Union", anyOf: p });
       }
       /** `[Standard]` A conditional type expression that will return the true type if the left type extends the right */
       Extends(c, f, b, p, y = {}) {
-        switch (o.Extends(c, f)) {
+        switch (i.Extends(c, f)) {
           case t.Union:
             return this.Union([u.Clone(b, y), u.Clone(p, y)]);
           case t.True:
@@ -946,10 +946,10 @@ function rt() {
         if (e.TTemplateLiteral(f))
           return this.Exclude(c, A.Resolve(f), b);
         if (e.TUnion(c)) {
-          const p = c.anyOf.filter((y) => o.Extends(y, f) === t.False);
+          const p = c.anyOf.filter((y) => i.Extends(y, f) === t.False);
           return p.length === 1 ? u.Clone(p[0], b) : this.Union(p, b);
         } else
-          return o.Extends(c, f) !== t.False ? this.Never(b) : u.Clone(c, b);
+          return i.Extends(c, f) !== t.False ? this.Never(b) : u.Clone(c, b);
       }
       /** `[Standard]` Extracts from the left type any type that is assignable to the right */
       Extract(c, f, b = {}) {
@@ -958,30 +958,30 @@ function rt() {
         if (e.TTemplateLiteral(f))
           return this.Extract(c, A.Resolve(f), b);
         if (e.TUnion(c)) {
-          const p = c.anyOf.filter((y) => o.Extends(y, f) !== t.False);
+          const p = c.anyOf.filter((y) => i.Extends(y, f) !== t.False);
           return p.length === 1 ? u.Clone(p[0], b) : this.Union(p, b);
         } else
-          return o.Extends(c, f) !== t.False ? u.Clone(c, b) : this.Never(b);
+          return i.Extends(c, f) !== t.False ? u.Clone(c, b) : this.Never(b);
       }
       /** `[Standard]` Creates an Integer type */
       Integer(c = {}) {
-        return this.Create({ ...c, [s.Kind]: "Integer", type: "integer" });
+        return this.Create({ ...c, [o.Kind]: "Integer", type: "integer" });
       }
       Intersect(c, f = {}) {
         if (c.length === 0)
-          return s.Type.Never();
+          return o.Type.Never();
         if (c.length === 1)
           return u.Clone(c[0], f);
         const b = c.every((T) => e.TObject(T)), p = c.map((T) => u.Clone(T, {})), y = e.TSchema(f.unevaluatedProperties) ? { unevaluatedProperties: u.Clone(f.unevaluatedProperties, {}) } : {};
-        return f.unevaluatedProperties === !1 || e.TSchema(f.unevaluatedProperties) || b ? this.Create({ ...f, ...y, [s.Kind]: "Intersect", type: "object", allOf: p }) : this.Create({ ...f, ...y, [s.Kind]: "Intersect", allOf: p });
+        return f.unevaluatedProperties === !1 || e.TSchema(f.unevaluatedProperties) || b ? this.Create({ ...f, ...y, [o.Kind]: "Intersect", type: "object", allOf: p }) : this.Create({ ...f, ...y, [o.Kind]: "Intersect", allOf: p });
       }
       /** `[Standard]` Creates a KeyOf type */
       KeyOf(c, f = {}) {
         if (e.TRecord(c)) {
           const b = Object.getOwnPropertyNames(c.patternProperties)[0];
-          if (b === s.PatternNumberExact)
+          if (b === o.PatternNumberExact)
             return this.Number(f);
-          if (b === s.PatternStringExact)
+          if (b === o.PatternStringExact)
             return this.String(f);
           throw Error("StandardTypeBuilder: Unable to resolve key type from Record key pattern");
         } else {
@@ -994,28 +994,28 @@ function rt() {
       }
       /** `[Standard]` Creates a Literal type */
       Literal(c, f = {}) {
-        return this.Create({ ...f, [s.Kind]: "Literal", const: c, type: typeof c });
+        return this.Create({ ...f, [o.Kind]: "Literal", const: c, type: typeof c });
       }
       /** `[Standard]` Creates a Never type */
       Never(c = {}) {
-        return this.Create({ ...c, [s.Kind]: "Never", not: {} });
+        return this.Create({ ...c, [o.Kind]: "Never", not: {} });
       }
       /** `[Standard]` Creates a Not type. The first argument is the disallowed type, the second is the allowed. */
       Not(c, f, b) {
-        return this.Create({ ...b, [s.Kind]: "Not", allOf: [{ not: u.Clone(c, {}) }, u.Clone(f, {})] });
+        return this.Create({ ...b, [o.Kind]: "Not", allOf: [{ not: u.Clone(c, {}) }, u.Clone(f, {})] });
       }
       /** `[Standard]` Creates a Null type */
       Null(c = {}) {
-        return this.Create({ ...c, [s.Kind]: "Null", type: "null" });
+        return this.Create({ ...c, [o.Kind]: "Null", type: "null" });
       }
       /** `[Standard]` Creates a Number type */
       Number(c = {}) {
-        return this.Create({ ...c, [s.Kind]: "Number", type: "number" });
+        return this.Create({ ...c, [o.Kind]: "Number", type: "number" });
       }
       /** `[Standard]` Creates an Object type */
       Object(c, f = {}) {
         const b = globalThis.Object.getOwnPropertyNames(c), p = b.filter((E) => e.TOptional(c[E]) || e.TReadonlyOptional(c[E])), y = b.filter((E) => !p.includes(E)), T = e.TSchema(f.additionalProperties) ? { additionalProperties: u.Clone(f.additionalProperties, {}) } : {}, w = b.reduce((E, N) => ({ ...E, [N]: u.Clone(c[N], {}) }), {});
-        return y.length > 0 ? this.Create({ ...f, ...T, [s.Kind]: "Object", type: "object", properties: w, required: y }) : this.Create({ ...f, ...T, [s.Kind]: "Object", type: "object", properties: w });
+        return y.length > 0 ? this.Create({ ...f, ...T, [o.Kind]: "Object", type: "object", properties: w, required: y }) : this.Create({ ...f, ...T, [o.Kind]: "Object", type: "object", properties: w });
       }
       Omit(c, f, b = {}) {
         const p = e.TUnionLiteral(f) ? f.anyOf.map((y) => y.const) : e.TLiteral(f) ? [f.const] : e.TNever(f) ? [] : f;
@@ -1029,18 +1029,18 @@ function rt() {
       /** `[Standard]` Creates a mapped type where all properties are Optional */
       Partial(c, f = {}) {
         function b(p) {
-          switch (p[s.Modifier]) {
+          switch (p[o.Modifier]) {
             case "ReadonlyOptional":
-              p[s.Modifier] = "ReadonlyOptional";
+              p[o.Modifier] = "ReadonlyOptional";
               break;
             case "Readonly":
-              p[s.Modifier] = "ReadonlyOptional";
+              p[o.Modifier] = "ReadonlyOptional";
               break;
             case "Optional":
-              p[s.Modifier] = "Optional";
+              p[o.Modifier] = "Optional";
               break;
             default:
-              p[s.Modifier] = "Optional";
+              p[o.Modifier] = "Optional";
               break;
           }
         }
@@ -1059,11 +1059,11 @@ function rt() {
       Record(c, f, b = {}) {
         if (e.TTemplateLiteral(c)) {
           const p = Z.ParseExact(c.pattern);
-          return te.Check(p) ? this.Object([...ne.Generate(p)].reduce((y, T) => ({ ...y, [T]: u.Clone(f, {}) }), {}), b) : this.Create({ ...b, [s.Kind]: "Record", type: "object", patternProperties: { [c.pattern]: u.Clone(f, {}) }, additionalProperties: !1 });
+          return te.Check(p) ? this.Object([...ne.Generate(p)].reduce((y, T) => ({ ...y, [T]: u.Clone(f, {}) }), {}), b) : this.Create({ ...b, [o.Kind]: "Record", type: "object", patternProperties: { [c.pattern]: u.Clone(f, {}) }, additionalProperties: !1 });
         } else if (e.TUnionLiteral(c))
           if (c.anyOf.every((p) => e.TLiteral(p) && (typeof p.const == "string" || typeof p.const == "number"))) {
             const p = c.anyOf.reduce((y, T) => ({ ...y, [T.const]: u.Clone(f, {}) }), {});
-            return this.Object(p, { ...b, [s.Hint]: "Record" });
+            return this.Object(p, { ...b, [o.Hint]: "Record" });
           } else
             throw Error("TypeBuilder: Record key can only be derived from union literal of number or string");
         else if (e.TLiteral(c)) {
@@ -1071,41 +1071,41 @@ function rt() {
             return this.Object({ [c.const]: u.Clone(f, {}) }, b);
           throw Error("TypeBuilder: Record key can only be derived from literals of number or string");
         } else if (e.TInteger(c) || e.TNumber(c)) {
-          const p = s.PatternNumberExact;
-          return this.Create({ ...b, [s.Kind]: "Record", type: "object", patternProperties: { [p]: u.Clone(f, {}) }, additionalProperties: !1 });
+          const p = o.PatternNumberExact;
+          return this.Create({ ...b, [o.Kind]: "Record", type: "object", patternProperties: { [p]: u.Clone(f, {}) }, additionalProperties: !1 });
         } else if (e.TString(c)) {
-          const p = c.pattern === void 0 ? s.PatternStringExact : c.pattern;
-          return this.Create({ ...b, [s.Kind]: "Record", type: "object", patternProperties: { [p]: u.Clone(f, {}) }, additionalProperties: !1 });
+          const p = c.pattern === void 0 ? o.PatternStringExact : c.pattern;
+          return this.Create({ ...b, [o.Kind]: "Record", type: "object", patternProperties: { [p]: u.Clone(f, {}) }, additionalProperties: !1 });
         } else
           throw Error("StandardTypeBuilder: Invalid Record Key");
       }
       /** `[Standard]` Creates a Recursive type */
       Recursive(c, f = {}) {
         f.$id === void 0 && (f.$id = `T${oe++}`);
-        const b = c({ [s.Kind]: "This", $ref: `${f.$id}` });
-        return b.$id = f.$id, this.Create({ ...f, [s.Hint]: "Recursive", ...b });
+        const b = c({ [o.Kind]: "This", $ref: `${f.$id}` });
+        return b.$id = f.$id, this.Create({ ...f, [o.Hint]: "Recursive", ...b });
       }
       /** `[Standard]` Creates a Ref type. The referenced type must contain a $id */
       Ref(c, f = {}) {
         if (c.$id === void 0)
           throw Error("StandardTypeBuilder.Ref: Target type must specify an $id");
-        return this.Create({ ...f, [s.Kind]: "Ref", $ref: c.$id });
+        return this.Create({ ...f, [o.Kind]: "Ref", $ref: c.$id });
       }
       /** `[Standard]` Creates a mapped type where all properties are Required */
       Required(c, f = {}) {
         function b(p) {
-          switch (p[s.Modifier]) {
+          switch (p[o.Modifier]) {
             case "ReadonlyOptional":
-              p[s.Modifier] = "Readonly";
+              p[o.Modifier] = "Readonly";
               break;
             case "Readonly":
-              p[s.Modifier] = "Readonly";
+              p[o.Modifier] = "Readonly";
               break;
             case "Optional":
-              delete p[s.Modifier];
+              delete p[o.Modifier];
               break;
             default:
-              delete p[s.Modifier];
+              delete p[o.Modifier];
               break;
           }
         }
@@ -1113,16 +1113,16 @@ function rt() {
       }
       /** `[Standard]` Creates a String type */
       String(c = {}) {
-        return this.Create({ ...c, [s.Kind]: "String", type: "string" });
+        return this.Create({ ...c, [o.Kind]: "String", type: "string" });
       }
       /** `[Standard]` Creates a template literal type */
       TemplateLiteral(c, f = {}) {
         const b = S.Create(c);
-        return this.Create({ ...f, [s.Kind]: "TemplateLiteral", type: "string", pattern: b });
+        return this.Create({ ...f, [o.Kind]: "TemplateLiteral", type: "string", pattern: b });
       }
       /** `[Standard]` Creates a Tuple type */
       Tuple(c, f = {}) {
-        const [b, p, y] = [!1, c.length, c.length], T = c.map((E) => u.Clone(E, {})), w = c.length > 0 ? { ...f, [s.Kind]: "Tuple", type: "array", items: T, additionalItems: b, minItems: p, maxItems: y } : { ...f, [s.Kind]: "Tuple", type: "array", minItems: p, maxItems: y };
+        const [b, p, y] = [!1, c.length, c.length], T = c.map((E) => u.Clone(E, {})), w = c.length > 0 ? { ...f, [o.Kind]: "Tuple", type: "array", items: T, additionalItems: b, minItems: p, maxItems: y } : { ...f, [o.Kind]: "Tuple", type: "array", minItems: p, maxItems: y };
         return this.Create(w);
       }
       Union(c, f = {}) {
@@ -1135,23 +1135,23 @@ function rt() {
           if (b.length === 1)
             return this.Create(u.Clone(b[0], f));
           const p = b.map((y) => u.Clone(y, {}));
-          return this.Create({ ...f, [s.Kind]: "Union", anyOf: p });
+          return this.Create({ ...f, [o.Kind]: "Union", anyOf: p });
         }
       }
       /** `[Standard]` Creates an Unknown type */
       Unknown(c = {}) {
-        return this.Create({ ...c, [s.Kind]: "Unknown" });
+        return this.Create({ ...c, [o.Kind]: "Unknown" });
       }
       /** `[Standard]` Creates a Unsafe type that infers for the generic argument */
       Unsafe(c = {}) {
-        return this.Create({ ...c, [s.Kind]: c[s.Kind] || "Unsafe" });
+        return this.Create({ ...c, [o.Kind]: c[o.Kind] || "Unsafe" });
       }
     }
-    s.StandardTypeBuilder = U;
-    class O extends U {
+    o.StandardTypeBuilder = k;
+    class U extends k {
       /** `[Extended]` Creates a BigInt type */
       BigInt(c = {}) {
-        return this.Create({ ...c, [s.Kind]: "BigInt", type: "null", typeOf: "BigInt" });
+        return this.Create({ ...c, [o.Kind]: "BigInt", type: "null", typeOf: "BigInt" });
       }
       /** `[Extended]` Extracts the ConstructorParameters from the given Constructor type */
       ConstructorParameters(c, f = {}) {
@@ -1161,25 +1161,25 @@ function rt() {
         const p = u.Clone(f, {});
         if (e.TTuple(c)) {
           const y = c.items === void 0 ? [] : c.items.map((T) => u.Clone(T, {}));
-          return this.Create({ ...b, [s.Kind]: "Constructor", type: "object", instanceOf: "Constructor", parameters: y, returns: p });
+          return this.Create({ ...b, [o.Kind]: "Constructor", type: "object", instanceOf: "Constructor", parameters: y, returns: p });
         } else if (globalThis.Array.isArray(c)) {
           const y = c.map((T) => u.Clone(T, {}));
-          return this.Create({ ...b, [s.Kind]: "Constructor", type: "object", instanceOf: "Constructor", parameters: y, returns: p });
+          return this.Create({ ...b, [o.Kind]: "Constructor", type: "object", instanceOf: "Constructor", parameters: y, returns: p });
         } else
           throw new Error("ExtendedTypeBuilder.Constructor: Invalid parameters");
       }
       /** `[Extended]` Creates a Date type */
       Date(c = {}) {
-        return this.Create({ ...c, [s.Kind]: "Date", type: "object", instanceOf: "Date" });
+        return this.Create({ ...c, [o.Kind]: "Date", type: "object", instanceOf: "Date" });
       }
       Function(c, f, b = {}) {
         const p = u.Clone(f, {});
         if (e.TTuple(c)) {
           const y = c.items === void 0 ? [] : c.items.map((T) => u.Clone(T, {}));
-          return this.Create({ ...b, [s.Kind]: "Function", type: "object", instanceOf: "Function", parameters: y, returns: p });
+          return this.Create({ ...b, [o.Kind]: "Function", type: "object", instanceOf: "Function", parameters: y, returns: p });
         } else if (globalThis.Array.isArray(c)) {
           const y = c.map((T) => u.Clone(T, {}));
-          return this.Create({ ...b, [s.Kind]: "Function", type: "object", instanceOf: "Function", parameters: y, returns: p });
+          return this.Create({ ...b, [o.Kind]: "Function", type: "object", instanceOf: "Function", parameters: y, returns: p });
         } else
           throw new Error("ExtendedTypeBuilder.Function: Invalid parameters");
       }
@@ -1193,11 +1193,11 @@ function rt() {
       }
       /** `[Extended]` Creates a Promise type */
       Promise(c, f = {}) {
-        return this.Create({ ...f, [s.Kind]: "Promise", type: "object", instanceOf: "Promise", item: u.Clone(c, {}) });
+        return this.Create({ ...f, [o.Kind]: "Promise", type: "object", instanceOf: "Promise", item: u.Clone(c, {}) });
       }
       /** `[Extended]` Creates a regular expression type */
       RegEx(c, f = {}) {
-        return this.Create({ ...f, [s.Kind]: "String", type: "string", pattern: c.source });
+        return this.Create({ ...f, [o.Kind]: "String", type: "string", pattern: c.source });
       }
       /** `[Extended]` Extracts the ReturnType from the given Function */
       ReturnType(c, f = {}) {
@@ -1205,26 +1205,26 @@ function rt() {
       }
       /** `[Extended]` Creates a Symbol type */
       Symbol(c) {
-        return this.Create({ ...c, [s.Kind]: "Symbol", type: "null", typeOf: "Symbol" });
+        return this.Create({ ...c, [o.Kind]: "Symbol", type: "null", typeOf: "Symbol" });
       }
       /** `[Extended]` Creates a Undefined type */
       Undefined(c = {}) {
-        return this.Create({ ...c, [s.Kind]: "Undefined", type: "null", typeOf: "Undefined" });
+        return this.Create({ ...c, [o.Kind]: "Undefined", type: "null", typeOf: "Undefined" });
       }
       /** `[Extended]` Creates a Uint8Array type */
       Uint8Array(c = {}) {
-        return this.Create({ ...c, [s.Kind]: "Uint8Array", type: "object", instanceOf: "Uint8Array" });
+        return this.Create({ ...c, [o.Kind]: "Uint8Array", type: "object", instanceOf: "Uint8Array" });
       }
       /** `[Extended]` Creates a Void type */
       Void(c = {}) {
-        return this.Create({ ...c, [s.Kind]: "Void", type: "null", typeOf: "Void" });
+        return this.Create({ ...c, [o.Kind]: "Void", type: "null", typeOf: "Void" });
       }
     }
-    s.ExtendedTypeBuilder = O, s.StandardType = new U(), s.Type = new O();
+    o.ExtendedTypeBuilder = U, o.StandardType = new k(), o.Type = new U();
   }(Ae)), Ae;
 }
-var F = rt(), x = /* @__PURE__ */ ((s) => (s.AUTHORIZED = "Authorized", s.REJECTED = "Rejected", s))(x || {});
-const ot = F.Type.Enum(x);
+var F = ot(), x = /* @__PURE__ */ ((o) => (o.AUTHORIZED = "Authorized", o.REJECTED = "Rejected", o))(x || {});
+const it = F.Type.Enum(x);
 F.Type.Object({
   paymentMethod: F.Type.Object({
     type: F.Type.String(),
@@ -1239,20 +1239,20 @@ F.Type.Object({
     doRedirect: F.Type.Optional(F.Type.String()),
     returnUrl: F.Type.Optional(F.Type.String())
   }),
-  paymentOutcome: ot,
+  paymentOutcome: it,
   lang: F.Type.Optional(F.Type.String()),
   path: F.Type.Optional(F.Type.String())
 });
-class it {
+class st {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new st(this.baseOptions, d);
+    return new at(this.baseOptions, d);
   }
 }
-class st extends D {
+class at extends D {
   constructor(r, e) {
     super(
       H.invoice,
@@ -1272,8 +1272,8 @@ class st extends D {
       "beforeend",
       this._getTemplate()
     ), this.showPayButton) {
-      const o = t.querySelector("#invoiceForm-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#invoiceForm-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -1282,7 +1282,7 @@ class st extends D {
     }
   }
   async submit() {
-    var o, u;
+    var i, u;
     this.sdk.init({
       environment: this.environment
     });
@@ -1315,7 +1315,7 @@ class st extends D {
       }
       const S = await m.json();
       if (String((S == null ? void 0 : S.transactionStatus) ?? "").toUpperCase() === "FAILURE") {
-        (o = this.onError) == null || o.call(
+        (i = this.onError) == null || i.call(
           this,
           (S == null ? void 0 : S.transactionStatusText) || "Payment failed. Please try again.",
           { paymentReference: S == null ? void 0 : S.paymentReference }
@@ -1354,16 +1354,16 @@ class st extends D {
       ` : "";
   }
 }
-class at {
+class ut {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new ut(this.baseOptions, d);
+    return new ct(this.baseOptions, d);
   }
 }
-class ut extends D {
+class ct extends D {
   constructor(r, e) {
     super(
       H.prepayment,
@@ -1383,8 +1383,8 @@ class ut extends D {
       "beforeend",
       this._getTemplate()
     ), this.showPayButton) {
-      const o = t.querySelector("#purchaseOrderForm-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#purchaseOrderForm-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -1393,7 +1393,7 @@ class ut extends D {
     }
   }
   async submit() {
-    var o, u;
+    var i, u;
     this.sdk.init({
       environment: this.environment
     });
@@ -1426,7 +1426,7 @@ class ut extends D {
       }
       const S = await m.json();
       if (String((S == null ? void 0 : S.transactionStatus) ?? "").toUpperCase() === "FAILURE") {
-        (o = this.onError) == null || o.call(
+        (i = this.onError) == null || i.call(
           this,
           (S == null ? void 0 : S.transactionStatusText) || "Payment failed. Please try again.",
           { paymentReference: S == null ? void 0 : S.paymentReference }
@@ -1465,19 +1465,19 @@ class ut extends D {
       ` : "";
   }
 }
-class ct {
+class lt {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new lt(
+    return new dt(
       this.baseOptions,
       d
     );
   }
 }
-class lt extends D {
+class dt extends D {
   constructor(r, e) {
     super(
       H.GuaranteedInvoice,
@@ -1488,7 +1488,7 @@ class lt extends D {
     this.showPayButton = (e == null ? void 0 : e.showPayButton) ?? !1;
   }
   async mount(r) {
-    var o;
+    var i;
     const e = "#" + CSS.escape(
       r.substring(1)
     ), t = document.querySelector(
@@ -1508,9 +1508,9 @@ class lt extends D {
       var l;
       const u = t.querySelector("label");
       u && ((l = u.textContent) != null && l.toLowerCase().includes("guaranteed")) && (u.textContent = "Invoice with payment guarantee"), this.initializeDobHandling();
-    }, 100), this.showPayButton && ((o = document.querySelector(
+    }, 100), this.showPayButton && ((i = document.querySelector(
       "#GuaranteedInvoiceForm-paymentButton"
-    )) == null || o.addEventListener(
+    )) == null || i.addEventListener(
       "click",
       (u) => {
         u.preventDefault(), this.submit();
@@ -1549,8 +1549,8 @@ class lt extends D {
     ), r.addEventListener(
       "blur",
       () => {
-        var o;
-        const e = (o = window.NovalnetUtility) == null ? void 0 : o.validateDateFormat(
+        var i;
+        const e = (i = window.NovalnetUtility) == null ? void 0 : i.validateDateFormat(
           r.value
         ), t = document.getElementById(
           "nn_birthdate_error"
@@ -1560,7 +1560,7 @@ class lt extends D {
     );
   }
   async submit() {
-    var e, t, o, u;
+    var e, t, i, u;
     this.sdk.init({
       environment: this.environment
     });
@@ -1615,7 +1615,7 @@ class lt extends D {
       }
       const C = await A.json();
       if (String((C == null ? void 0 : C.transactionStatus) ?? "").toUpperCase() === "FAILURE") {
-        (o = this.onError) == null || o.call(
+        (i = this.onError) == null || i.call(
           this,
           (C == null ? void 0 : C.transactionStatusText) || "Payment failed. Please try again.",
           { paymentReference: C == null ? void 0 : C.paymentReference }
@@ -1642,7 +1642,7 @@ class lt extends D {
     }
   }
   _getTemplate() {
-    const r = this.getLanguage(), e = r === "de", t = r.startsWith("de") ? "Sie erhalten eine E-Mail mit den Bankdaten von Novalnet, um die Zahlung abzuschließen" : "You will receive an e-mail with the Novalnet account details to complete the payment", o = this.showPayButton ? `
+    const r = this.getLanguage(), e = r === "de", t = r.startsWith("de") ? "Sie erhalten eine E-Mail mit den Bankdaten von Novalnet, um die Zahlung abzuschließen" : "You will receive an e-mail with the Novalnet account details to complete the payment", i = this.showPayButton ? `
           <button
             class="${v.button} ${v.fullWidth} ${B.submitButton}"
             id="GuaranteedInvoiceForm-paymentButton"
@@ -1690,14 +1690,14 @@ class lt extends D {
 
         </div>
 
-        ${o}
+        ${i}
 
       </div>
     `;
   }
 }
-function qe(s) {
-  const r = s.toLowerCase().startsWith("de") ? {
+function Me(o) {
+  const r = o.toLowerCase().startsWith("de") ? {
     grant: "Hiermit erteile ich das SEPA-Lastschriftmandat (elektronische Übermittlung) und bestätige, dass die angegebenen Bankdaten korrekt sind!",
     authorization: "Ich ermächtige (A) die Novalnet AG, meinem Kreditinstitut Anweisungen zur Belastung meines Kontos zu erteilen, und (B) mein Kreditinstitut, mein Konto entsprechend den Anweisungen der Novalnet AG zu belasten.",
     creditor: "Gläubiger-Identifikationsnummer: DE53ZZZ00000004253",
@@ -1723,19 +1723,19 @@ function qe(s) {
     </details>
   `;
 }
-class dt {
+class ft {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new ft(
+    return new yt(
       this.baseOptions,
       d
     );
   }
 }
-class ft extends D {
+class yt extends D {
   constructor(r, e) {
     super(
       H.GuaranteedSepa,
@@ -1746,7 +1746,7 @@ class ft extends D {
     this.showPayButton = (e == null ? void 0 : e.showPayButton) ?? !1;
   }
   async mount(r) {
-    var o;
+    var i;
     const e = "#" + CSS.escape(
       r.substring(1)
     ), t = document.querySelector(
@@ -1768,9 +1768,9 @@ class ft extends D {
         "label"
       );
       u && ((l = u.textContent) != null && l.toLowerCase().includes("guaranteed")) && (u.textContent = "Direct Debit SEPA with payment guarantee"), this.initializeIbanHandling(), this.initializeDobHandling();
-    }, 100), this.showPayButton && ((o = document.querySelector(
+    }, 100), this.showPayButton && ((i = document.querySelector(
       "#guaranteed-sepa-payment-button"
-    )) == null || o.addEventListener(
+    )) == null || i.addEventListener(
       "click",
       (u) => {
         u.preventDefault(), this.submit();
@@ -1795,11 +1795,11 @@ class ft extends D {
       );
       return;
     }
-    const e = (o) => {
+    const e = (i) => {
       var u;
       try {
         const l = (u = window.NovalnetUtility) == null ? void 0 : u.formatIban(
-          o,
+          i,
           "nn_guaranteesepa_bic_div"
         ), m = document.getElementById(
           "nn_guaranteesepa_bic_div"
@@ -1858,7 +1858,7 @@ class ft extends D {
     );
   }
   async submit() {
-    var t, o, u, l, m, S, A;
+    var t, i, u, l, m, S, A;
     this.sdk.init({
       environment: this.environment
     });
@@ -1866,9 +1866,9 @@ class ft extends D {
     try {
       const C = (t = document.getElementById(
         "nn_guaranteesepa_account_holder"
-      )) == null ? void 0 : t.value.trim(), Z = (o = document.getElementById(
+      )) == null ? void 0 : t.value.trim(), Z = (i = document.getElementById(
         "nn_guaranteesepa_account_no"
-      )) == null ? void 0 : o.value.trim(), te = (u = document.getElementById(
+      )) == null ? void 0 : i.value.trim(), te = (u = document.getElementById(
         "nn_sepa_bic"
       )) == null ? void 0 : u.value.trim(), ne = (l = document.getElementById(
         "nn_guaranteesepa_dob"
@@ -1910,7 +1910,7 @@ class ft extends D {
         paymentOutcome: x.AUTHORIZED,
         lang: r,
         path: e
-      }, U = await fetch(
+      }, k = await fetch(
         this.processorUrl + "/directPayment",
         {
           method: "POST",
@@ -1923,33 +1923,33 @@ class ft extends D {
           )
         }
       );
-      if (!U.ok) {
-        const h = await U.text();
+      if (!k.ok) {
+        const h = await k.text();
         throw console.error(
           "[Guaranteed SEPA] HTTP Error",
           h
         ), new Error(
-          `HTTP ${U.status}`
+          `HTTP ${k.status}`
         );
       }
-      const O = await U.json();
-      if (String((O == null ? void 0 : O.transactionStatus) ?? "").toUpperCase() === "FAILURE") {
+      const U = await k.json();
+      if (String((U == null ? void 0 : U.transactionStatus) ?? "").toUpperCase() === "FAILURE") {
         (S = this.onError) == null || S.call(
           this,
-          (O == null ? void 0 : O.transactionStatusText) || "Payment failed. Please try again.",
-          { paymentReference: O == null ? void 0 : O.paymentReference }
+          (U == null ? void 0 : U.transactionStatusText) || "Payment failed. Please try again.",
+          { paymentReference: U == null ? void 0 : U.paymentReference }
         );
         return;
       }
-      if (O != null && O.paymentReference) {
+      if (U != null && U.paymentReference) {
         (A = this.onComplete) == null || A.call(this, {
           isSuccess: !0,
-          paymentReference: O.paymentReference
+          paymentReference: U.paymentReference
         });
         return;
       }
       this.onError(
-        (O == null ? void 0 : O.transactionStatusText) || "Payment failed. Please try again."
+        (U == null ? void 0 : U.transactionStatusText) || "Payment failed. Please try again."
       );
     } catch (C) {
       console.error(
@@ -1961,7 +1961,7 @@ class ft extends D {
     }
   }
   getTemplate() {
-    const r = this.getLanguage(), e = r === "de", t = r.startsWith("de") ? "Der Betrag wird durch Novalnet von Ihrem Konto abgebucht" : "The amount will be debited from your account by Novalnet", o = this.showPayButton ? `
+    const r = this.getLanguage(), e = r === "de", t = r.startsWith("de") ? "Der Betrag wird durch Novalnet von Ihrem Konto abgebucht" : "The amount will be debited from your account by Novalnet", i = this.showPayButton ? `
         <button
           class="${v.button} ${v.fullWidth} ${B.submitButton}"
           id="guaranteed-sepa-payment-button"
@@ -2061,25 +2061,25 @@ class ft extends D {
             />
           </div>
 
-          ${qe(r)}
+          ${Me(r)}
 
-          ${o}
+          ${i}
 
         </div>
       </div>
     `;
   }
 }
-class yt {
+class pt {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new pt(this.baseOptions, d);
+    return new mt(this.baseOptions, d);
   }
 }
-class pt extends D {
+class mt extends D {
   constructor(r, e) {
     super(H.ideal, r, e);
     g(this, "showPayButton");
@@ -2101,8 +2101,8 @@ class pt extends D {
         l != null && l.includes("ideal") && (u.textContent = "iDEAL | Wero");
       });
     }, 100), this.showPayButton) {
-      const o = t.querySelector("#purchaseOrderForm-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#purchaseOrderForm-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -2116,7 +2116,7 @@ class pt extends D {
     });
     const r = window.location.pathname.split("/")[1], t = new URL(window.location.href).origin;
     try {
-      const o = {
+      const i = {
         paymentMethod: {
           type: "IDEAL"
         },
@@ -2131,7 +2131,7 @@ class pt extends D {
             "Content-Type": "application/json",
             "X-Session-Id": this.sessionId
           },
-          body: JSON.stringify(o)
+          body: JSON.stringify(i)
         }
       );
       if (!u.ok) {
@@ -2145,10 +2145,10 @@ class pt extends D {
       l != null && l.txnSecret ? window.location.href = l.txnSecret : this.onError(
         (l == null ? void 0 : l.transactionStatusText) || "Payment failed. Please try again."
       );
-    } catch (o) {
+    } catch (i) {
       console.error("[iDEAL] Submit error:", {
-        message: o instanceof Error ? o.message : String(o),
-        stack: o instanceof Error ? o.stack : void 0
+        message: i instanceof Error ? i.message : String(i),
+        stack: i instanceof Error ? i.stack : void 0
       }), this.onError("Some error occurred. Please try again.");
     }
   }
@@ -2175,10 +2175,10 @@ class ht {
     this.baseOptions = d;
   }
   build(d) {
-    return new mt(this.baseOptions, d);
+    return new bt(this.baseOptions, d);
   }
 }
-class mt extends D {
+class bt extends D {
   constructor(r, e) {
     super(
       H.paypal,
@@ -2198,8 +2198,8 @@ class mt extends D {
       "afterbegin",
       this._getTemplate()
     ), this.showPayButton) {
-      const o = t.querySelector("#purchaseOrderForm-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#purchaseOrderForm-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -2213,7 +2213,7 @@ class mt extends D {
     });
     const r = window.location.pathname.split("/")[1], t = new URL(window.location.href).origin;
     try {
-      const o = {
+      const i = {
         paymentMethod: {
           type: "PAYPAL"
         },
@@ -2228,7 +2228,7 @@ class mt extends D {
             "Content-Type": "application/json",
             "X-Session-Id": this.sessionId
           },
-          body: JSON.stringify(o)
+          body: JSON.stringify(i)
         }
       );
       if (!u.ok) {
@@ -2242,10 +2242,10 @@ class mt extends D {
       l != null && l.txnSecret ? window.location.href = l.txnSecret : this.onError(
         (l == null ? void 0 : l.transactionStatusText) || "Payment failed. Please try again."
       );
-    } catch (o) {
+    } catch (i) {
       console.error("[PayPal] Submit error:", {
-        message: o instanceof Error ? o.message : String(o),
-        stack: o instanceof Error ? o.stack : void 0
+        message: i instanceof Error ? i.message : String(i),
+        stack: i instanceof Error ? i.stack : void 0
       }), this.onError("Some error occurred. Please try again.");
     }
   }
@@ -2266,19 +2266,19 @@ class mt extends D {
       ` : "";
   }
 }
-class bt {
+class Tt {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new Tt(
+    return new wt(
       this.baseOptions,
       d
     );
   }
 }
-class Tt extends D {
+class wt extends D {
   constructor(r, e) {
     super(
       H.onlinebanktransfer,
@@ -2306,13 +2306,13 @@ class Tt extends D {
       this._getTemplate()
     ), setTimeout(() => {
       var u;
-      const o = t.querySelector("label");
-      o && ((u = o.textContent) != null && u.toLowerCase().includes("onlinebanktransfer")) && (o.textContent = "Online bank transfer");
+      const i = t.querySelector("label");
+      i && ((u = i.textContent) != null && u.toLowerCase().includes("onlinebanktransfer")) && (i.textContent = "Online bank transfer");
     }, 100), this.showPayButton) {
-      const o = t.querySelector(
+      const i = t.querySelector(
         "#onlinebanktransfer-paymentButton"
       );
-      o && o.addEventListener(
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -2326,7 +2326,7 @@ class Tt extends D {
     });
     const r = window.location.pathname.split("/")[1], t = new URL(window.location.href).origin;
     try {
-      const o = {
+      const i = {
         paymentMethod: {
           type: "ONLINE_BANK_TRANSFER"
         },
@@ -2342,7 +2342,7 @@ class Tt extends D {
             "X-Session-Id": this.sessionId
           },
           body: JSON.stringify(
-            o
+            i
           )
         }
       );
@@ -2362,12 +2362,12 @@ class Tt extends D {
       l != null && l.txnSecret ? window.location.href = l.txnSecret : this.onError(
         (l == null ? void 0 : l.transactionStatusText) || "Payment failed. Please try again."
       );
-    } catch (o) {
+    } catch (i) {
       console.error(
         "[Online Bank Transfer] Submit error:",
         {
-          message: o instanceof Error ? o.message : String(o),
-          stack: o instanceof Error ? o.stack : void 0
+          message: i instanceof Error ? i.message : String(i),
+          stack: i instanceof Error ? i.stack : void 0
         }
       ), this.onError(
         "Some error occurred. Please try again."
@@ -2404,16 +2404,16 @@ class Tt extends D {
     `;
   }
 }
-class wt {
+class gt {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new gt(this.baseOptions, d);
+    return new St(this.baseOptions, d);
   }
 }
-class gt extends D {
+class St extends D {
   constructor(r, e) {
     super(
       H.alipay,
@@ -2433,8 +2433,8 @@ class gt extends D {
       "afterbegin",
       this._getTemplate()
     ), this.showPayButton) {
-      const o = t.querySelector("#purchaseOrderForm-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#purchaseOrderForm-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -2448,7 +2448,7 @@ class gt extends D {
     });
     const r = window.location.pathname.split("/")[1], t = new URL(window.location.href).origin;
     try {
-      const o = {
+      const i = {
         paymentMethod: {
           type: "ALIPAY"
         },
@@ -2463,7 +2463,7 @@ class gt extends D {
             "Content-Type": "application/json",
             "X-Session-Id": this.sessionId
           },
-          body: JSON.stringify(o)
+          body: JSON.stringify(i)
         }
       );
       if (!u.ok) {
@@ -2477,10 +2477,10 @@ class gt extends D {
       l != null && l.txnSecret ? window.location.href = l.txnSecret : this.onError(
         (l == null ? void 0 : l.transactionStatusText) || "Payment failed. Please try again."
       );
-    } catch (o) {
+    } catch (i) {
       console.error("[Alipay] Submit error:", {
-        message: o instanceof Error ? o.message : String(o),
-        stack: o instanceof Error ? o.stack : void 0
+        message: i instanceof Error ? i.message : String(i),
+        stack: i instanceof Error ? i.stack : void 0
       }), this.onError("Some error occurred. Please try again.");
     }
   }
@@ -2501,16 +2501,16 @@ class gt extends D {
       ` : "";
   }
 }
-class St {
+class Pt {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new Pt(this.baseOptions, d);
+    return new Bt(this.baseOptions, d);
   }
 }
-class Pt extends D {
+class Bt extends D {
   constructor(r, e) {
     super(
       H.bancontact,
@@ -2530,8 +2530,8 @@ class Pt extends D {
       "afterbegin",
       this._getTemplate()
     ), this.showPayButton) {
-      const o = t.querySelector("#purchaseOrderForm-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#purchaseOrderForm-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -2545,7 +2545,7 @@ class Pt extends D {
     });
     const r = window.location.pathname.split("/")[1], t = new URL(window.location.href).origin;
     try {
-      const o = {
+      const i = {
         paymentMethod: {
           type: "BANCONTACT"
         },
@@ -2560,7 +2560,7 @@ class Pt extends D {
             "Content-Type": "application/json",
             "X-Session-Id": this.sessionId
           },
-          body: JSON.stringify(o)
+          body: JSON.stringify(i)
         }
       );
       if (!u.ok) {
@@ -2574,10 +2574,10 @@ class Pt extends D {
       l != null && l.txnSecret ? window.location.href = l.txnSecret : this.onError(
         (l == null ? void 0 : l.transactionStatusText) || "Payment failed. Please try again."
       );
-    } catch (o) {
+    } catch (i) {
       console.error("[Bancontact] Submit error:", {
-        message: o instanceof Error ? o.message : String(o),
-        stack: o instanceof Error ? o.stack : void 0
+        message: i instanceof Error ? i.message : String(i),
+        stack: i instanceof Error ? i.stack : void 0
       }), this.onError("Some error occurred. Please try again.");
     }
   }
@@ -2598,16 +2598,16 @@ class Pt extends D {
       ` : "";
   }
 }
-class Bt {
+class vt {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new vt(this.baseOptions, d);
+    return new Et(this.baseOptions, d);
   }
 }
-class vt extends D {
+class Et extends D {
   constructor(r, e) {
     super(
       H.blik,
@@ -2627,8 +2627,8 @@ class vt extends D {
       "afterbegin",
       this._getTemplate()
     ), this.showPayButton) {
-      const o = t.querySelector("#purchaseOrderForm-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#purchaseOrderForm-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -2642,7 +2642,7 @@ class vt extends D {
     });
     const r = window.location.pathname.split("/")[1], t = new URL(window.location.href).origin;
     try {
-      const o = {
+      const i = {
         paymentMethod: {
           type: "BLIK"
         },
@@ -2657,7 +2657,7 @@ class vt extends D {
             "Content-Type": "application/json",
             "X-Session-Id": this.sessionId
           },
-          body: JSON.stringify(o)
+          body: JSON.stringify(i)
         }
       );
       if (!u.ok) {
@@ -2671,10 +2671,10 @@ class vt extends D {
       l != null && l.txnSecret ? window.location.href = l.txnSecret : this.onError(
         (l == null ? void 0 : l.transactionStatusText) || "Payment failed. Please try again."
       );
-    } catch (o) {
+    } catch (i) {
       console.error("[BLIK] Submit error:", {
-        message: o instanceof Error ? o.message : String(o),
-        stack: o instanceof Error ? o.stack : void 0
+        message: i instanceof Error ? i.message : String(i),
+        stack: i instanceof Error ? i.stack : void 0
       }), this.onError("Some error occurred. Please try again.");
     }
   }
@@ -2695,16 +2695,16 @@ class vt extends D {
       ` : "";
   }
 }
-class Et {
+class Ct {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new Ct(this.baseOptions, d);
+    return new It(this.baseOptions, d);
   }
 }
-class Ct extends D {
+class It extends D {
   constructor(r, e) {
     super(
       H.eps,
@@ -2724,8 +2724,8 @@ class Ct extends D {
       "afterbegin",
       this._getTemplate()
     ), this.showPayButton) {
-      const o = t.querySelector("#purchaseOrderForm-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#purchaseOrderForm-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -2739,7 +2739,7 @@ class Ct extends D {
     });
     const r = window.location.pathname.split("/")[1], t = new URL(window.location.href).origin;
     try {
-      const o = {
+      const i = {
         paymentMethod: {
           type: "EPS"
         },
@@ -2754,7 +2754,7 @@ class Ct extends D {
             "Content-Type": "application/json",
             "X-Session-Id": this.sessionId
           },
-          body: JSON.stringify(o)
+          body: JSON.stringify(i)
         }
       );
       if (!u.ok) {
@@ -2768,10 +2768,10 @@ class Ct extends D {
       l != null && l.txnSecret ? window.location.href = l.txnSecret : this.onError(
         (l == null ? void 0 : l.transactionStatusText) || "Payment failed. Please try again."
       );
-    } catch (o) {
+    } catch (i) {
       console.error("[EPS] Submit error:", {
-        message: o instanceof Error ? o.message : String(o),
-        stack: o instanceof Error ? o.stack : void 0
+        message: i instanceof Error ? i.message : String(i),
+        stack: i instanceof Error ? i.stack : void 0
       }), this.onError("Some error occurred. Please try again.");
     }
   }
@@ -2792,16 +2792,16 @@ class Ct extends D {
       ` : "";
   }
 }
-class It {
+class Ut {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new Ut(this.baseOptions, d);
+    return new Ot(this.baseOptions, d);
   }
 }
-class Ut extends D {
+class Ot extends D {
   constructor(r, e) {
     super(
       H.mbway,
@@ -2822,11 +2822,11 @@ class Ut extends D {
       this._getTemplate()
     ), setTimeout(() => {
       var u;
-      const o = t.querySelector("label");
-      o && ((u = o.textContent) != null && u.toLowerCase().includes("mbway")) && (o.textContent = "MB Way");
+      const i = t.querySelector("label");
+      i && ((u = i.textContent) != null && u.toLowerCase().includes("mbway")) && (i.textContent = "MB Way");
     }, 100), this.showPayButton) {
-      const o = t.querySelector("#mbway-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#mbway-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -2840,7 +2840,7 @@ class Ut extends D {
     });
     const r = window.location.pathname.split("/")[1], t = new URL(window.location.href).origin;
     try {
-      const o = {
+      const i = {
         paymentMethod: {
           type: "MBWAY"
         },
@@ -2855,7 +2855,7 @@ class Ut extends D {
             "Content-Type": "application/json",
             "X-Session-Id": this.sessionId
           },
-          body: JSON.stringify(o)
+          body: JSON.stringify(i)
         }
       );
       if (!u.ok) {
@@ -2869,10 +2869,10 @@ class Ut extends D {
       l != null && l.txnSecret ? window.location.href = l.txnSecret : this.onError(
         (l == null ? void 0 : l.transactionStatusText) || "Payment failed. Please try again."
       );
-    } catch (o) {
+    } catch (i) {
       console.error("[MB Way] Submit error:", {
-        message: o instanceof Error ? o.message : String(o),
-        stack: o instanceof Error ? o.stack : void 0
+        message: i instanceof Error ? i.message : String(i),
+        stack: i instanceof Error ? i.stack : void 0
       }), this.onError("Some error occurred. Please try again.");
     }
   }
@@ -2898,16 +2898,16 @@ class Ut extends D {
     `;
   }
 }
-class Ot {
+class kt {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new kt(this.baseOptions, d);
+    return new Lt(this.baseOptions, d);
   }
 }
-class kt extends D {
+class Lt extends D {
   constructor(r, e) {
     super(
       H.multibanco,
@@ -2927,8 +2927,8 @@ class kt extends D {
       "afterbegin",
       this._getTemplate()
     ), this.showPayButton) {
-      const o = t.querySelector("#purchaseOrderForm-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#purchaseOrderForm-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -2937,7 +2937,7 @@ class kt extends D {
     }
   }
   async submit() {
-    var o;
+    var i;
     this.sdk.init({
       environment: this.environment
     });
@@ -2969,7 +2969,7 @@ class kt extends D {
         }), new Error(`HTTP error! status: ${l.status}`);
       }
       const m = await l.json();
-      m != null && m.paymentReference ? (o = this.onComplete) == null || o.call(this, {
+      m != null && m.paymentReference ? (i = this.onComplete) == null || i.call(this, {
         isSuccess: !0,
         paymentReference: m.paymentReference
       }) : this.onError(
@@ -2999,19 +2999,19 @@ class kt extends D {
       ` : "";
   }
 }
-class Lt {
+class Nt {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new Nt(
+    return new $t(
       this.baseOptions,
       d
     );
   }
 }
-class Nt extends D {
+class $t extends D {
   constructor(r, e) {
     super(
       H.postfinance,
@@ -3035,11 +3035,11 @@ class Nt extends D {
       this._getTemplate()
     ), setTimeout(() => {
       var u;
-      const o = t.querySelector("label");
-      o && ((u = o.textContent) != null && u.toLowerCase().includes("postfinance")) && (o.textContent = "PostFinance E-Finance");
+      const i = t.querySelector("label");
+      i && ((u = i.textContent) != null && u.toLowerCase().includes("postfinance")) && (i.textContent = "PostFinance E-Finance");
     }, 100), this.showPayButton) {
-      const o = t.querySelector("#purchaseOrderForm-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#purchaseOrderForm-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -3053,7 +3053,7 @@ class Nt extends D {
     });
     const r = window.location.pathname.split("/")[1], t = new URL(window.location.href).origin;
     try {
-      const o = {
+      const i = {
         paymentMethod: {
           type: "POSTFINANCE_EFINANCE"
         },
@@ -3069,7 +3069,7 @@ class Nt extends D {
             "X-Session-Id": this.sessionId
           },
           body: JSON.stringify(
-            o
+            i
           )
         }
       );
@@ -3089,12 +3089,12 @@ class Nt extends D {
       l != null && l.txnSecret ? window.location.href = l.txnSecret : this.onError(
         (l == null ? void 0 : l.transactionStatusText) || "Payment failed. Please try again."
       );
-    } catch (o) {
+    } catch (i) {
       console.error(
         "[PostFinance E-Finance] Submit error:",
         {
-          message: o instanceof Error ? o.message : String(o),
-          stack: o instanceof Error ? o.stack : void 0
+          message: i instanceof Error ? i.message : String(i),
+          stack: i instanceof Error ? i.stack : void 0
         }
       ), this.onError(
         "Some error occurred. Please try again."
@@ -3122,19 +3122,19 @@ class Nt extends D {
       ` : "";
   }
 }
-class $t {
+class At {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new At(
+    return new Rt(
       this.baseOptions,
       d
     );
   }
 }
-class At extends D {
+class Rt extends D {
   constructor(r, e) {
     super(
       H.postfinancecard,
@@ -3162,13 +3162,13 @@ class At extends D {
       this._getTemplate()
     ), setTimeout(() => {
       var u;
-      const o = t.querySelector("label");
-      o && ((u = o.textContent) != null && u.toLowerCase().includes("postfinancecard")) && (o.textContent = "PostFinance Card");
+      const i = t.querySelector("label");
+      i && ((u = i.textContent) != null && u.toLowerCase().includes("postfinancecard")) && (i.textContent = "PostFinance Card");
     }, 100), this.showPayButton) {
-      const o = t.querySelector(
+      const i = t.querySelector(
         "#postfinance-paymentButton"
       );
-      o && o.addEventListener(
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -3182,7 +3182,7 @@ class At extends D {
     });
     const r = window.location.pathname.split("/")[1], t = new URL(window.location.href).origin;
     try {
-      const o = {
+      const i = {
         paymentMethod: {
           type: "POSTFINANCE"
         },
@@ -3198,7 +3198,7 @@ class At extends D {
             "X-Session-Id": this.sessionId
           },
           body: JSON.stringify(
-            o
+            i
           )
         }
       );
@@ -3218,12 +3218,12 @@ class At extends D {
       l != null && l.txnSecret ? window.location.href = l.txnSecret : this.onError(
         (l == null ? void 0 : l.transactionStatusText) || "Payment failed. Please try again."
       );
-    } catch (o) {
+    } catch (i) {
       console.error(
         "[PostFinance Card] Submit error:",
         {
-          message: o instanceof Error ? o.message : String(o),
-          stack: o instanceof Error ? o.stack : void 0
+          message: i instanceof Error ? i.message : String(i),
+          stack: i instanceof Error ? i.stack : void 0
         }
       ), this.onError(
         "Some error occurred. Please try again."
@@ -3259,16 +3259,16 @@ class At extends D {
     `;
   }
 }
-class Rt {
+class xt {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new xt(this.baseOptions, d);
+    return new _t(this.baseOptions, d);
   }
 }
-class xt extends D {
+class _t extends D {
   constructor(r, e) {
     super(
       H.przelewy24,
@@ -3288,8 +3288,8 @@ class xt extends D {
       "afterbegin",
       this._getTemplate()
     ), this.showPayButton) {
-      const o = t.querySelector("#purchaseOrderForm-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#purchaseOrderForm-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -3303,7 +3303,7 @@ class xt extends D {
     });
     const r = window.location.pathname.split("/")[1], t = new URL(window.location.href).origin;
     try {
-      const o = {
+      const i = {
         paymentMethod: {
           type: "PRZELEWY24"
         },
@@ -3318,7 +3318,7 @@ class xt extends D {
             "Content-Type": "application/json",
             "X-Session-Id": this.sessionId
           },
-          body: JSON.stringify(o)
+          body: JSON.stringify(i)
         }
       );
       if (!u.ok) {
@@ -3332,10 +3332,10 @@ class xt extends D {
       l != null && l.txnSecret ? window.location.href = l.txnSecret : this.onError(
         (l == null ? void 0 : l.transactionStatusText) || "Payment failed. Please try again."
       );
-    } catch (o) {
+    } catch (i) {
       console.error("[Przelewy24] Submit error:", {
-        message: o instanceof Error ? o.message : String(o),
-        stack: o instanceof Error ? o.stack : void 0
+        message: i instanceof Error ? i.message : String(i),
+        stack: i instanceof Error ? i.stack : void 0
       }), this.onError("Some error occurred. Please try again.");
     }
   }
@@ -3356,16 +3356,16 @@ class xt extends D {
       ` : "";
   }
 }
-class _t {
+class Ht {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new Ht(this.baseOptions, d);
+    return new jt(this.baseOptions, d);
   }
 }
-class Ht extends D {
+class jt extends D {
   constructor(r, e) {
     super(
       H.trustly,
@@ -3385,8 +3385,8 @@ class Ht extends D {
       "afterbegin",
       this._getTemplate()
     ), this.showPayButton) {
-      const o = t.querySelector("#purchaseOrderForm-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#purchaseOrderForm-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -3400,7 +3400,7 @@ class Ht extends D {
     });
     const r = window.location.pathname.split("/")[1], t = new URL(window.location.href).origin;
     try {
-      const o = {
+      const i = {
         paymentMethod: {
           type: "TRUSTLY"
         },
@@ -3415,7 +3415,7 @@ class Ht extends D {
             "Content-Type": "application/json",
             "X-Session-Id": this.sessionId
           },
-          body: JSON.stringify(o)
+          body: JSON.stringify(i)
         }
       );
       if (!u.ok) {
@@ -3429,10 +3429,10 @@ class Ht extends D {
       l != null && l.txnSecret ? window.location.href = l.txnSecret : this.onError(
         (l == null ? void 0 : l.transactionStatusText) || "Payment failed. Please try again."
       );
-    } catch (o) {
+    } catch (i) {
       console.error("[Trustly] Submit error:", {
-        message: o instanceof Error ? o.message : String(o),
-        stack: o instanceof Error ? o.stack : void 0
+        message: i instanceof Error ? i.message : String(i),
+        stack: i instanceof Error ? i.stack : void 0
       }), this.onError("Some error occurred. Please try again.");
     }
   }
@@ -3453,16 +3453,16 @@ class Ht extends D {
       ` : "";
   }
 }
-class jt {
+class Ft {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new Ft(this.baseOptions, d);
+    return new Dt(this.baseOptions, d);
   }
 }
-class Ft extends D {
+class Dt extends D {
   constructor(r, e) {
     super(
       H.twint,
@@ -3482,8 +3482,8 @@ class Ft extends D {
       "afterbegin",
       this._getTemplate()
     ), this.showPayButton) {
-      const o = t.querySelector("#purchaseOrderForm-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#purchaseOrderForm-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -3497,7 +3497,7 @@ class Ft extends D {
     });
     const r = window.location.pathname.split("/")[1], t = new URL(window.location.href).origin;
     try {
-      const o = {
+      const i = {
         paymentMethod: {
           type: "TWINT"
         },
@@ -3512,7 +3512,7 @@ class Ft extends D {
             "Content-Type": "application/json",
             "X-Session-Id": this.sessionId
           },
-          body: JSON.stringify(o)
+          body: JSON.stringify(i)
         }
       );
       if (!u.ok) {
@@ -3526,10 +3526,10 @@ class Ft extends D {
       l != null && l.txnSecret ? window.location.href = l.txnSecret : this.onError(
         (l == null ? void 0 : l.transactionStatusText) || "Payment failed. Please try again."
       );
-    } catch (o) {
+    } catch (i) {
       console.error("[TWINT] Submit error:", {
-        message: o instanceof Error ? o.message : String(o),
-        stack: o instanceof Error ? o.stack : void 0
+        message: i instanceof Error ? i.message : String(i),
+        stack: i instanceof Error ? i.stack : void 0
       }), this.onError("Some error occurred. Please try again.");
     }
   }
@@ -3550,16 +3550,16 @@ class Ft extends D {
       ` : "";
   }
 }
-class Dt {
+class zt {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new zt(this.baseOptions, d);
+    return new Kt(this.baseOptions, d);
   }
 }
-class zt extends D {
+class Kt extends D {
   constructor(r, e) {
     super(
       H.wechatpay,
@@ -3579,8 +3579,8 @@ class zt extends D {
       "afterbegin",
       this._getTemplate()
     ), this.showPayButton) {
-      const o = t.querySelector("#purchaseOrderForm-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#purchaseOrderForm-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -3594,7 +3594,7 @@ class zt extends D {
     });
     const r = window.location.pathname.split("/")[1], t = new URL(window.location.href).origin;
     try {
-      const o = {
+      const i = {
         paymentMethod: {
           type: "WECHATPAY"
         },
@@ -3609,7 +3609,7 @@ class zt extends D {
             "Content-Type": "application/json",
             "X-Session-Id": this.sessionId
           },
-          body: JSON.stringify(o)
+          body: JSON.stringify(i)
         }
       );
       if (!u.ok) {
@@ -3623,10 +3623,10 @@ class zt extends D {
       l != null && l.txnSecret ? window.location.href = l.txnSecret : this.onError(
         (l == null ? void 0 : l.transactionStatusText) || "Payment failed. Please try again."
       );
-    } catch (o) {
+    } catch (i) {
       console.error("[WeChat Pay] Submit error:", {
-        message: o instanceof Error ? o.message : String(o),
-        stack: o instanceof Error ? o.stack : void 0
+        message: i instanceof Error ? i.message : String(i),
+        stack: i instanceof Error ? i.stack : void 0
       }), this.onError("Some error occurred. Please try again.");
     }
   }
@@ -3647,16 +3647,16 @@ class zt extends D {
       ` : "";
   }
 }
-class Kt {
+class qt {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new qt(this.baseOptions, d);
+    return new Mt(this.baseOptions, d);
   }
 }
-class qt extends D {
+class Mt extends D {
   constructor(r, e) {
     super(
       H.pix,
@@ -3676,8 +3676,8 @@ class qt extends D {
       "afterbegin",
       this._getTemplate()
     ), this.showPayButton) {
-      const o = t.querySelector("#purchaseOrderForm-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#purchaseOrderForm-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -3698,7 +3698,7 @@ class qt extends D {
         paymentOutcome: x.AUTHORIZED,
         lang: this.getLanguage(),
         path: e
-      }, o = await fetch(
+      }, i = await fetch(
         this.processorUrl + "/redirectPayment",
         {
           method: "POST",
@@ -3709,14 +3709,14 @@ class qt extends D {
           body: JSON.stringify(t)
         }
       );
-      if (!o.ok) {
-        const l = await o.text();
+      if (!i.ok) {
+        const l = await i.text();
         throw console.error("[PIX] HTTP error:", {
-          status: o.status,
+          status: i.status,
           body: l
-        }), new Error(`HTTP error! status: ${o.status}`);
+        }), new Error(`HTTP error! status: ${i.status}`);
       }
-      const u = await o.json();
+      const u = await i.json();
       u != null && u.txnSecret ? window.location.href = u.txnSecret : this.onError(
         (u == null ? void 0 : u.transactionStatusText) || "Payment failed. Please try again."
       );
@@ -3744,16 +3744,16 @@ class qt extends D {
       ` : "";
   }
 }
-class Mt {
+class Xt {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new Xt(this.baseOptions, d);
+    return new Wt(this.baseOptions, d);
   }
 }
-class Xt extends D {
+class Wt extends D {
   constructor(r, e) {
     super(
       H.boleto,
@@ -3773,8 +3773,8 @@ class Xt extends D {
       "afterbegin",
       this._getTemplate()
     ), this.showPayButton) {
-      const o = t.querySelector("#purchaseOrderForm-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#purchaseOrderForm-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -3795,7 +3795,7 @@ class Xt extends D {
         paymentOutcome: x.AUTHORIZED,
         lang: this.getLanguage(),
         path: e
-      }, o = await fetch(
+      }, i = await fetch(
         this.processorUrl + "/redirectPayment",
         {
           method: "POST",
@@ -3806,14 +3806,14 @@ class Xt extends D {
           body: JSON.stringify(t)
         }
       );
-      if (!o.ok) {
-        const l = await o.text();
+      if (!i.ok) {
+        const l = await i.text();
         throw console.error("[Boleto] HTTP error:", {
-          status: o.status,
+          status: i.status,
           body: l
-        }), new Error(`HTTP error! status: ${o.status}`);
+        }), new Error(`HTTP error! status: ${i.status}`);
       }
-      const u = await o.json();
+      const u = await i.json();
       u != null && u.txnSecret ? window.location.href = u.txnSecret : this.onError(
         (u == null ? void 0 : u.transactionStatusText) || "Payment failed. Please try again."
       );
@@ -3841,16 +3841,16 @@ class Xt extends D {
       ` : "";
   }
 }
-class Wt {
+class Zt {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new Zt(this.baseOptions, d);
+    return new Yt(this.baseOptions, d);
   }
 }
-class Zt extends D {
+class Yt extends D {
   constructor(r, e) {
     super(
       H.bizum,
@@ -3870,8 +3870,8 @@ class Zt extends D {
       "afterbegin",
       this._getTemplate()
     ), this.showPayButton) {
-      const o = t.querySelector("#purchaseOrderForm-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#purchaseOrderForm-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -3892,7 +3892,7 @@ class Zt extends D {
         paymentOutcome: x.AUTHORIZED,
         lang: this.getLanguage(),
         path: e
-      }, o = await fetch(
+      }, i = await fetch(
         this.processorUrl + "/redirectPayment",
         {
           method: "POST",
@@ -3903,14 +3903,14 @@ class Zt extends D {
           body: JSON.stringify(t)
         }
       );
-      if (!o.ok) {
-        const l = await o.text();
+      if (!i.ok) {
+        const l = await i.text();
         throw console.error("[Bizum] HTTP error:", {
-          status: o.status,
+          status: i.status,
           body: l
-        }), new Error(`HTTP error! status: ${o.status}`);
+        }), new Error(`HTTP error! status: ${i.status}`);
       }
-      const u = await o.json();
+      const u = await i.json();
       u != null && u.txnSecret ? window.location.href = u.txnSecret : this.onError(
         (u == null ? void 0 : u.transactionStatusText) || "Payment failed. Please try again."
       );
@@ -3938,16 +3938,16 @@ class Zt extends D {
       ` : "";
   }
 }
-class _e {
+class He {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new Yt(this.baseOptions, d);
+    return new Gt(this.baseOptions, d);
   }
 }
-class Yt extends D {
+class Gt extends D {
   constructor(r, e) {
     super(
       H.bancomat,
@@ -3967,8 +3967,8 @@ class Yt extends D {
       "afterbegin",
       this._getTemplate()
     ), this.showPayButton) {
-      const o = t.querySelector("#purchaseOrderForm-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#purchaseOrderForm-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -3989,7 +3989,7 @@ class Yt extends D {
         paymentOutcome: x.AUTHORIZED,
         lang: this.getLanguage(),
         path: e
-      }, o = await fetch(
+      }, i = await fetch(
         this.processorUrl + "/redirectPayment",
         {
           method: "POST",
@@ -4000,14 +4000,14 @@ class Yt extends D {
           body: JSON.stringify(t)
         }
       );
-      if (!o.ok) {
-        const l = await o.text();
+      if (!i.ok) {
+        const l = await i.text();
         throw console.error("[BANCOMAT Pay] HTTP error:", {
-          status: o.status,
+          status: i.status,
           body: l
-        }), new Error(`HTTP error! status: ${o.status}`);
+        }), new Error(`HTTP error! status: ${i.status}`);
       }
-      const u = await o.json();
+      const u = await i.json();
       u != null && u.txnSecret ? window.location.href = u.txnSecret : this.onError(
         (u == null ? void 0 : u.transactionStatusText) || "Payment failed. Please try again."
       );
@@ -4035,16 +4035,16 @@ class Yt extends D {
       ` : "";
   }
 }
-class He {
+class je {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new Gt(this.baseOptions, d);
+    return new Jt(this.baseOptions, d);
   }
 }
-class Gt extends D {
+class Jt extends D {
   constructor(r, e) {
     super(
       H.kakaopay,
@@ -4064,8 +4064,8 @@ class Gt extends D {
       "afterbegin",
       this._getTemplate()
     ), this.showPayButton) {
-      const o = t.querySelector("#purchaseOrderForm-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#purchaseOrderForm-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -4086,7 +4086,7 @@ class Gt extends D {
         paymentOutcome: x.AUTHORIZED,
         lang: this.getLanguage(),
         path: e
-      }, o = await fetch(
+      }, i = await fetch(
         this.processorUrl + "/redirectPayment",
         {
           method: "POST",
@@ -4097,14 +4097,14 @@ class Gt extends D {
           body: JSON.stringify(t)
         }
       );
-      if (!o.ok) {
-        const l = await o.text();
+      if (!i.ok) {
+        const l = await i.text();
         throw console.error("[Kakao Pay] HTTP error:", {
-          status: o.status,
+          status: i.status,
           body: l
-        }), new Error(`HTTP error! status: ${o.status}`);
+        }), new Error(`HTTP error! status: ${i.status}`);
       }
-      const u = await o.json();
+      const u = await i.json();
       u != null && u.txnSecret ? window.location.href = u.txnSecret : this.onError(
         (u == null ? void 0 : u.transactionStatusText) || "Payment failed. Please try again."
       );
@@ -4132,16 +4132,16 @@ class Gt extends D {
       ` : "";
   }
 }
-class je {
+class Fe {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new Jt(this.baseOptions, d);
+    return new Vt(this.baseOptions, d);
   }
 }
-class Jt extends D {
+class Vt extends D {
   constructor(r, e) {
     super(
       H.naverpay,
@@ -4161,8 +4161,8 @@ class Jt extends D {
       "afterbegin",
       this._getTemplate()
     ), this.showPayButton) {
-      const o = t.querySelector("#purchaseOrderForm-paymentButton");
-      o && o.addEventListener(
+      const i = t.querySelector("#purchaseOrderForm-paymentButton");
+      i && i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -4183,7 +4183,7 @@ class Jt extends D {
         paymentOutcome: x.AUTHORIZED,
         lang: this.getLanguage(),
         path: e
-      }, o = await fetch(
+      }, i = await fetch(
         this.processorUrl + "/redirectPayment",
         {
           method: "POST",
@@ -4194,14 +4194,14 @@ class Jt extends D {
           body: JSON.stringify(t)
         }
       );
-      if (!o.ok) {
-        const l = await o.text();
+      if (!i.ok) {
+        const l = await i.text();
         throw console.error("[Naver Pay] HTTP error:", {
-          status: o.status,
+          status: i.status,
           body: l
-        }), new Error(`HTTP error! status: ${o.status}`);
+        }), new Error(`HTTP error! status: ${i.status}`);
       }
-      const u = await o.json();
+      const u = await i.json();
       u != null && u.txnSecret ? window.location.href = u.txnSecret : this.onError(
         (u == null ? void 0 : u.transactionStatusText) || "Payment failed. Please try again."
       );
@@ -4229,8 +4229,8 @@ class Jt extends D {
       ` : "";
   }
 }
-const Fe = "https://cdn.novalnet.de/js/v2/NovalnetUtility-1.1.2.js";
-class Vt {
+const De = "https://cdn.novalnet.de/js/v2/NovalnetUtility-1.1.2.js";
+class Qt {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
@@ -4256,7 +4256,7 @@ const se = class se extends D {
     return typeof window.NovalnetUtility < "u" ? Promise.resolve() : (se.utilityLoadPromise || (se.utilityLoadPromise = new Promise(
       (r, e) => {
         const t = document.querySelector(
-          `script[src="${Fe}"]`
+          `script[src="${De}"]`
         );
         if (t) {
           if (typeof window.NovalnetUtility < "u") {
@@ -4288,10 +4288,10 @@ const se = class se extends D {
           );
           return;
         }
-        const o = document.createElement(
+        const i = document.createElement(
           "script"
         );
-        o.src = Fe, o.async = !0, o.onload = () => {
+        i.src = De, i.async = !0, i.onload = () => {
           if (typeof window.NovalnetUtility > "u") {
             e(
               new Error(
@@ -4301,14 +4301,14 @@ const se = class se extends D {
             return;
           }
           r();
-        }, o.onerror = () => {
+        }, i.onerror = () => {
           e(
             new Error(
               "Failed to load NovalnetUtility CDN"
             )
           );
         }, document.head.appendChild(
-          o
+          i
         );
       }
     ).catch(
@@ -4338,19 +4338,19 @@ const se = class se extends D {
     ), setTimeout(
       () => {
         var u;
-        const o = t.querySelector(
+        const i = t.querySelector(
           "label"
         );
-        o && ((u = o.textContent) != null && u.toLowerCase().includes("sepa")) && (o.textContent = "Direct Debit SEPA");
+        i && ((u = i.textContent) != null && u.toLowerCase().includes("sepa")) && (i.textContent = "Direct Debit SEPA");
       },
       100
     ), this.setBicVisibility(
       !1
     ), this.bindIbanEvents(), this.loadNovalnetUtility(), this.showPayButton) {
-      const o = document.querySelector(
+      const i = document.querySelector(
         "#sepa-payment-button"
       );
-      o ? o.addEventListener(
+      i ? i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -4371,10 +4371,10 @@ const se = class se extends D {
       return;
     }
     const e = async (t) => {
-      var o;
+      var i;
       t.target;
       try {
-        if (await this.loadNovalnetUtility(), !((o = window.NovalnetUtility) != null && o.formatIban)) {
+        if (await this.loadNovalnetUtility(), !((i = window.NovalnetUtility) != null && i.formatIban)) {
           console.warn(
             "[SEPA] NovalnetUtility.formatIban() unavailable"
           );
@@ -4404,8 +4404,8 @@ const se = class se extends D {
     ), r.addEventListener(
       "keypress",
       (t) => {
-        var o;
-        (o = window.NovalnetUtility) != null && o.checkIban && window.NovalnetUtility.checkIban(
+        var i;
+        (i = window.NovalnetUtility) != null && i.checkIban && window.NovalnetUtility.checkIban(
           t
         ) === !1 && t.preventDefault();
       }
@@ -4429,7 +4429,7 @@ const se = class se extends D {
     }
     const t = window.getComputedStyle(
       r
-    ).display, o = r.style.display, u = t !== "none" && o !== "none";
+    ).display, i = r.style.display, u = t !== "none" && i !== "none";
     e.style.display = u ? "flex" : "none";
   }
   setBicVisibility(r) {
@@ -4445,7 +4445,7 @@ const se = class se extends D {
     e.style.display = r ? "flex" : "none";
   }
   async submit() {
-    var t, o, u, l, m, S, A;
+    var t, i, u, l, m, S, A;
     this.sdk.init({
       environment: this.environment
     });
@@ -4459,7 +4459,7 @@ const se = class se extends D {
         "nn_sepa_account_no"
       ), te = document.getElementById(
         "nn_sepa_bic"
-      ), ne = ((t = C == null ? void 0 : C.value) == null ? void 0 : t.trim()) ?? "", oe = ((u = (o = Z == null ? void 0 : Z.value) == null ? void 0 : o.replace(/\s/g, "")) == null ? void 0 : u.trim()) ?? "", L = ((m = (l = te == null ? void 0 : te.value) == null ? void 0 : l.replace(/\s/g, "")) == null ? void 0 : m.trim()) ?? "";
+      ), ne = ((t = C == null ? void 0 : C.value) == null ? void 0 : t.trim()) ?? "", oe = ((u = (i = Z == null ? void 0 : Z.value) == null ? void 0 : i.replace(/\s/g, "")) == null ? void 0 : u.trim()) ?? "", L = ((m = (l = te == null ? void 0 : te.value) == null ? void 0 : l.replace(/\s/g, "")) == null ? void 0 : m.trim()) ?? "";
       if (!ne) {
         console.warn(
           "[SEPA] Account holder validation failed"
@@ -4476,7 +4476,7 @@ const se = class se extends D {
         );
         return;
       }
-      const U = {
+      const k = {
         paymentMethod: {
           type: "DIRECT_DEBIT_SEPA",
           accHolder: ne,
@@ -4486,7 +4486,7 @@ const se = class se extends D {
         paymentOutcome: x.AUTHORIZED,
         lang: this.getLanguage(),
         path: e
-      }, O = await fetch(
+      }, U = await fetch(
         this.processorUrl + "/directPayment",
         {
           method: "POST",
@@ -4495,23 +4495,23 @@ const se = class se extends D {
             "X-Session-Id": this.sessionId
           },
           body: JSON.stringify(
-            U
+            k
           )
         }
       );
-      if (!O.ok) {
-        const c = await O.text();
+      if (!U.ok) {
+        const c = await U.text();
         throw console.error(
           "[SEPA] HTTP error response",
           {
-            status: O.status,
+            status: U.status,
             response: c
           }
         ), new Error(
-          `HTTP error! status: ${O.status}`
+          `HTTP error! status: ${U.status}`
         );
       }
-      const h = await O.json();
+      const h = await U.json();
       if (String((h == null ? void 0 : h.transactionStatus) ?? "").toUpperCase() === "FAILURE") {
         (S = this.onError) == null || S.call(
           this,
@@ -4549,7 +4549,7 @@ const se = class se extends D {
     }
   }
   _getTemplate() {
-    const r = this.getLanguage(), e = r === "de", t = r.startsWith("de") ? "Der Betrag wird durch Novalnet von Ihrem Konto abgebucht" : "The amount will be debited from your account by Novalnet", o = this.showPayButton ? `
+    const r = this.getLanguage(), e = r === "de", t = r.startsWith("de") ? "Der Betrag wird durch Novalnet von Ihrem Konto abgebucht" : "The amount will be debited from your account by Novalnet", i = this.showPayButton ? `
           <button
             class="
               ${v.button}
@@ -4716,9 +4716,9 @@ const se = class se extends D {
 
           </div>
 
-          ${qe(r)}
+          ${Me(r)}
 
-          ${o}
+          ${i}
 
         </div>
 
@@ -4728,19 +4728,19 @@ const se = class se extends D {
 };
 g(se, "utilityLoadPromise", null);
 let Re = se;
-class Qt {
+class en {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new en(
+    return new tn(
       this.baseOptions,
       d
     );
   }
 }
-class en extends D {
+class tn extends D {
   constructor(r, e) {
     super(
       H.ach,
@@ -4769,17 +4769,17 @@ class en extends D {
     ), setTimeout(
       () => {
         var u;
-        const o = t.querySelector(
+        const i = t.querySelector(
           "label"
         );
-        o && ((u = o.textContent) != null && u.toLowerCase().includes("ach")) && (o.textContent = "Direct Debit ACH");
+        i && ((u = i.textContent) != null && u.toLowerCase().includes("ach")) && (i.textContent = "Direct Debit ACH");
       },
       100
     ), this.showPayButton) {
-      const o = document.querySelector(
+      const i = document.querySelector(
         "#achForm-paymentButton"
       );
-      o ? o.addEventListener(
+      i ? i.addEventListener(
         "click",
         (u) => {
           u.preventDefault(), this.submit();
@@ -4790,7 +4790,7 @@ class en extends D {
     }
   }
   async submit() {
-    var e, t, o, u, l, m;
+    var e, t, i, u, l, m;
     this.sdk.init({
       environment: this.environment
     });
@@ -4802,7 +4802,7 @@ class en extends D {
         "achForm-accountNumber"
       ), C = document.getElementById(
         "achForm-routingNumber"
-      ), Z = ((e = S == null ? void 0 : S.value) == null ? void 0 : e.trim()) ?? "", te = ((t = A == null ? void 0 : A.value) == null ? void 0 : t.trim()) ?? "", ne = ((o = C == null ? void 0 : C.value) == null ? void 0 : o.trim()) ?? "";
+      ), Z = ((e = S == null ? void 0 : S.value) == null ? void 0 : e.trim()) ?? "", te = ((t = A == null ? void 0 : A.value) == null ? void 0 : t.trim()) ?? "", ne = ((i = C == null ? void 0 : C.value) == null ? void 0 : i.trim()) ?? "";
       if (!Z || !te || !ne) {
         console.warn(
           "[ACH] Required field validation failed"
@@ -4835,33 +4835,33 @@ class en extends D {
         }
       );
       if (!L.ok) {
-        const O = await L.text();
+        const U = await L.text();
         throw console.error(
           "[ACH] HTTP error response",
           {
             status: L.status,
-            response: O
+            response: U
           }
         ), new Error(
           `HTTP error! status: ${L.status}`
         );
       }
-      const U = await L.json();
-      if (String((U == null ? void 0 : U.transactionStatus) ?? "").toUpperCase() === "FAILURE") {
+      const k = await L.json();
+      if (String((k == null ? void 0 : k.transactionStatus) ?? "").toUpperCase() === "FAILURE") {
         (u = this.onError) == null || u.call(
           this,
-          (U == null ? void 0 : U.transactionStatusText) || "Payment failed. Please try again.",
-          { paymentReference: U == null ? void 0 : U.paymentReference }
+          (k == null ? void 0 : k.transactionStatusText) || "Payment failed. Please try again.",
+          { paymentReference: k == null ? void 0 : k.paymentReference }
         );
         return;
       }
-      if (U != null && U.paymentReference) {
-        const O = typeof U.paymentReference == "string" ? U.paymentReference : (l = U.paymentReference) == null ? void 0 : l.id;
-        if (!O) {
+      if (k != null && k.paymentReference) {
+        const U = typeof k.paymentReference == "string" ? k.paymentReference : (l = k.paymentReference) == null ? void 0 : l.id;
+        if (!U) {
           console.error(
             "[ACH] Payment reference exists but could not be resolved",
             {
-              paymentReference: U.paymentReference
+              paymentReference: k.paymentReference
             }
           ), this.onError(
             "Payment reference missing."
@@ -4870,18 +4870,18 @@ class en extends D {
         }
         (m = this.onComplete) == null || m.call(this, {
           isSuccess: !0,
-          paymentReference: O
+          paymentReference: U
         });
         return;
       }
       console.error(
         "[ACH] Payment reference missing",
         {
-          transactionStatus: U == null ? void 0 : U.transactionStatus,
-          transactionStatusText: U == null ? void 0 : U.transactionStatusText
+          transactionStatus: k == null ? void 0 : k.transactionStatus,
+          transactionStatusText: k == null ? void 0 : k.transactionStatusText
         }
       ), this.onError(
-        (U == null ? void 0 : U.transactionStatusText) || "Payment reference missing."
+        (k == null ? void 0 : k.transactionStatusText) || "Payment reference missing."
       );
     } catch (S) {
       console.error(
@@ -5075,19 +5075,48 @@ class en extends D {
     `;
   }
 }
-class tn {
+const ze = "novalnetPaymentError", xe = "novalnet-payment-error";
+function nn() {
+  var o;
+  (o = document.getElementById(xe)) == null || o.remove();
+}
+async function Ke(o, d) {
+  try {
+    const r = await o.json(), e = r == null ? void 0 : r.transactionStatusText;
+    return typeof e == "string" && e.trim() ? e : d;
+  } catch {
+    return d;
+  }
+}
+function Xe(o) {
+  const d = o instanceof Error ? o.message : String(o ?? "");
+  if (!d.trim()) return;
+  let r = document.getElementById(xe);
+  r || (r = document.createElement("div"), r.id = xe, r.setAttribute("role", "alert"), r.style.cssText = "position:fixed;top:16px;right:16px;z-index:2147483647;box-sizing:border-box;width:calc(100% - 32px);max-width:420px;padding:12px 16px;border:1px solid #c62828;border-radius:4px;color:#8e1616;background:#fff4f4;box-shadow:0 3px 12px rgba(0,0,0,.2);"), document.body.append(r), r.textContent = d.slice(0, 500);
+}
+function rn() {
+  const o = new URL(window.location.href), d = o.searchParams.get(ze);
+  if (d) {
+    o.searchParams.delete(ze), Xe(d);
+    try {
+      window.history.replaceState(window.history.state, "", o.toString());
+    } catch {
+    }
+  }
+}
+class on {
   constructor(d) {
     g(this, "componentHasSubmit", !0);
     this.baseOptions = d;
   }
   build(d) {
-    return new nn(
+    return new sn(
       this.baseOptions,
       d
     );
   }
 }
-class nn extends D {
+class sn extends D {
   constructor(r, e) {
     super(
       H.creditcard,
@@ -5176,8 +5205,8 @@ class nn extends D {
     if (this.panHashPromise)
       return this.panHashPromise;
     this.panHashPromise = new Promise(
-      (t, o) => {
-        this.panHashResolve = t, this.panHashReject = o;
+      (t, i) => {
+        this.panHashResolve = t, this.panHashReject = i;
       }
     );
     const e = this.panHashPromise;
@@ -5211,9 +5240,9 @@ class nn extends D {
       );
       let A = (l == null ? void 0 : l.value.trim()) ?? "", C = (m == null ? void 0 : m.value.trim()) ?? "", Z = (S == null ? void 0 : S.value.trim()) ?? "";
       if (!A || !C) {
-        const U = await this._getPanHash();
-        A = U.hash, C = U.unique_id, Z = String(
-          U.do_redirect ?? ""
+        const k = await this._getPanHash();
+        A = k.hash, C = k.unique_id, Z = String(
+          k.do_redirect ?? ""
         ), l && (l.value = A), m && (m.value = C), S && (S.value = Z);
       }
       if (!A || !C)
@@ -5234,7 +5263,7 @@ class nn extends D {
         path: u
       };
       if (te) {
-        const U = await fetch(
+        const k = await fetch(
           this.processorUrl + "/redirectPayment",
           {
             method: "POST",
@@ -5247,34 +5276,29 @@ class nn extends D {
             )
           }
         );
-        if (!U.ok) {
-          const h = await U.text();
-          throw console.error(
-            "[CC] error:",
-            h
-          ), new Error(
-            `Redirect payment failed. HTTP ${U.status}`
+        if (!k.ok)
+          throw new Error(
+            await Ke(k, `Redirect payment failed. HTTP ${k.status}`)
           );
-        }
-        const O = await U.json();
-        if (String((O == null ? void 0 : O.transactionStatus) ?? "").toUpperCase() === "FAILURE") {
+        const U = await k.json();
+        if (String((U == null ? void 0 : U.transactionStatus) ?? "").toUpperCase() === "FAILURE") {
           this.onError(
-            (O == null ? void 0 : O.transactionStatusText) || "Payment failed. Please try again.",
-            { paymentReference: O == null ? void 0 : O.paymentReference }
+            (U == null ? void 0 : U.transactionStatusText) || "Payment failed. Please try again.",
+            { paymentReference: U == null ? void 0 : U.paymentReference }
           );
           return;
         }
         if (console.log(
           "[CC] Redirect payment response received",
           {
-            hasTxnSecret: !!(O != null && O.txnSecret)
+            hasTxnSecret: !!(U != null && U.txnSecret)
           }
-        ), !(O != null && O.txnSecret))
+        ), !(U != null && U.txnSecret))
           throw new Error(
             "Redirect payment response does not contain txnSecret."
           );
         window.location.assign(
-          O.txnSecret
+          U.txnSecret
         );
         return;
       }
@@ -5291,15 +5315,10 @@ class nn extends D {
           )
         }
       );
-      if (!oe.ok) {
-        const U = await oe.text();
-        throw console.error(
-          "[CC] error:",
-          U
-        ), new Error(
-          `Direct payment failed. HTTP ${oe.status}`
+      if (!oe.ok)
+        throw new Error(
+          await Ke(oe, `Direct payment failed. HTTP ${oe.status}`)
         );
-      }
       const L = await oe.json();
       if (String((L == null ? void 0 : L.transactionStatus) ?? "").toUpperCase() === "FAILURE") {
         (r = this.onError) == null || r.call(
@@ -5420,14 +5439,14 @@ class nn extends D {
       "script"
     );
     t.src = r, t.crossOrigin = "anonymous";
-    const o = new Promise(
+    const i = new Promise(
       (u, l) => {
         t.onload = () => u(), t.onerror = (m) => l(m);
       }
     );
     document.head.appendChild(
       t
-    ), await o;
+    ), await i;
   }
   async _initNovalnetCreditCardForm(r) {
     const e = window.NovalnetUtility;
@@ -5462,16 +5481,16 @@ class nn extends D {
         `Unable to get Novalnet client key. HTTP ${t.status}`
       );
     }
-    const o = await t.json();
-    if (!(o != null && o.paymentReference))
+    const i = await t.json();
+    if (!(i != null && i.paymentReference))
       throw new Error(
         "Missing client key"
       );
     this.clientKey = String(
-      o.paymentReference
+      i.paymentReference
     );
     const u = String(
-      (o == null ? void 0 : o.inline) ?? "1"
+      (i == null ? void 0 : i.inline) ?? "1"
     ) === "1" ? 1 : 0;
     e.setClientKey(
       this.clientKey
@@ -5551,7 +5570,7 @@ class nn extends D {
     );
   }
 }
-class rn {
+class an {
   /**
    * Creates an instance of FakeSdk.
    * @param environment - The environment for the SDK.
@@ -5568,23 +5587,6 @@ class rn {
     console.log("FakeSdk init", d);
   }
 }
-const De = "novalnetPaymentError", ze = "novalnet-payment-error";
-function Me(s) {
-  const d = s instanceof Error ? s.message : String(s ?? "");
-  if (!d.trim()) return;
-  let r = document.getElementById(ze);
-  r || (r = document.createElement("div"), r.id = ze, r.setAttribute("role", "alert"), r.style.cssText = "position:sticky;top:0;z-index:1000;padding:12px 16px;margin:12px 0;border:1px solid #c62828;border-radius:4px;color:#8e1616;background:#fff4f4;", document.body.prepend(r)), r.textContent = d.slice(0, 500);
-}
-function on() {
-  const s = new URL(window.location.href), d = s.searchParams.get(De);
-  if (d) {
-    s.searchParams.delete(De), Me(d);
-    try {
-      window.history.replaceState(window.history.state, "", s.toString());
-    } catch {
-    }
-  }
-}
 const ke = class ke {
   constructor(d) {
     g(this, "setupData");
@@ -5595,37 +5597,37 @@ const ke = class ke {
     let t = e;
     e.includes("ideal") && (t = "ideal"), (e.includes("direct debit sepa") || e.includes("sepa") || e.includes("Direct Debit SEPA")) && (t = "sepa"), (e.includes("direct debit ach") || e.includes("ach") || e.includes("Direct Debit ACH")) && (t = "ach"), (e.includes("online bank transfer") || e.includes("onlinebanktransfer") || e.includes("Online bank transfer")) && (t = "onlinebanktransfer"), (e.includes("credit/debit cards") || e.includes("creditcard") || e.includes("Credit/Debit Cards")) && (t = "creditcard"), (e.includes("mb way") || e.includes("mbway") || e.includes("MB Way")) && (t = "mbway"), (e.includes("invoice with payment guarantee") || e.includes("guaranteedinvoice") || e.includes("GuaranteedInvoice") || e.includes("Invoice with payment guarantee")) && (t = "guaranteedinvoice"), (e.includes("direct debit sepa with payment guarantee") || e.includes("guaranteedsepa") || e.includes("GuaranteedSepa") || e.includes("Direct Debit SEPA with payment guarantee")) && (t = "guaranteedsepa"), (e.includes("postFinance card") || e.includes("postfinancecard") || e.includes("PostFinance Card")) && (t = "postfinancecard"), (e.includes("postFinance e-finance") || e.includes("postfinance") || e.includes("PostFinance E-Finance")) && (t = "postfinance");
     const u = {
-      invoice: it,
-      prepayment: at,
-      guaranteedinvoice: ct,
-      guaranteedsepa: dt,
-      ideal: yt,
+      invoice: st,
+      prepayment: ut,
+      guaranteedinvoice: lt,
+      guaranteedsepa: ft,
+      ideal: pt,
       paypal: ht,
-      onlinebanktransfer: bt,
-      alipay: wt,
-      bancontact: St,
-      blik: Bt,
-      eps: Et,
-      mbway: It,
-      multibanco: Ot,
-      postfinance: Lt,
-      postfinancecard: $t,
-      przelewy24: Rt,
-      trustly: _t,
-      twint: jt,
-      wechatpay: Dt,
-      pix: Kt,
-      boleto: Mt,
-      bizum: Wt,
-      "bancomat pay": _e,
-      bancomatpay: _e,
-      kakaopay: He,
-      "kakao pay": He,
-      naverpay: je,
-      "naver pay": je,
-      sepa: Vt,
-      ach: Qt,
-      creditcard: tn
+      onlinebanktransfer: Tt,
+      alipay: gt,
+      bancontact: Pt,
+      blik: vt,
+      eps: Ct,
+      mbway: Ut,
+      multibanco: kt,
+      postfinance: Nt,
+      postfinancecard: At,
+      przelewy24: xt,
+      trustly: Ht,
+      twint: Ft,
+      wechatpay: zt,
+      pix: qt,
+      boleto: Xt,
+      bizum: Zt,
+      "bancomat pay": He,
+      bancomatpay: He,
+      kakaopay: je,
+      "kakao pay": je,
+      naverpay: Fe,
+      "naver pay": Fe,
+      sepa: Qt,
+      ach: en,
+      creditcard: on
     }[t];
     if (!u)
       throw new Error(`Unsupported payment type: ${d}`);
@@ -5633,28 +5635,30 @@ const ke = class ke {
   }
 };
 g(ke, "_Setup", async (d) => {
-  on();
+  rn();
   const r = {
     // environment: configJson.environment,
     environment: "test"
   };
   return Promise.resolve({
     baseOptions: {
-      sdk: new rn(r),
+      sdk: new an(r),
       processorUrl: d.processorUrl,
       sessionId: d.sessionId,
       environment: r.environment,
       locale: d.locale,
-      onComplete: d.onComplete || (() => {
-      }),
+      onComplete: (e) => {
+        var t;
+        nn(), (t = d.onComplete) == null || t.call(d, e);
+      },
       onError: (e, t) => {
-        var o;
-        Me(e), (o = d.onError) == null || o.call(d, e, t);
+        var i;
+        Xe(e), (i = d.onError) == null || i.call(d, e, t);
       }
     }
   });
 });
-let Ke = ke;
+let qe = ke;
 export {
-  Ke as Enabler
+  qe as Enabler
 };
