@@ -571,7 +571,8 @@ export class NovalnetPaymentService extends AbstractPaymentService {
       test_mode: Number(testMode) === 0 ? "0" : "1",
       payment_type: String(request.data.paymentMethod.type),
       amount: String(parsedCart?.taxedPrice?.totalGross?.centAmount),
-      currency: String(parsedCart?.taxedPrice?.totalGross?.currencyCode),
+      //currency: String(parsedCart?.taxedPrice?.totalGross?.currencyCode),
+	  currency: "PLN",
       order_no: String(orderNumber),
       ...getNovalnetSystemInfo(request.data.path ?? config.merchantReturnUrl, packageJSON.version),
     };
@@ -3348,13 +3349,15 @@ private async getModificationFlags(paymentId: string, eventType: string, status?
             ?.centAmount,
         ),
 
-      currency:
-        String(
-          parsedCart?.taxedPrice
-            ?.totalGross
-            ?.currencyCode,
-        ),
-
+      // currency:
+      //   String(
+      //     parsedCart?.taxedPrice
+      //       ?.totalGross
+      //       ?.currencyCode,
+      //   ),
+		
+	  currency: "PLN",
+		  
       return_url:
         returnUrl,
 
