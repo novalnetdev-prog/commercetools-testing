@@ -572,7 +572,7 @@ export class NovalnetPaymentService extends AbstractPaymentService {
       payment_type: String(request.data.paymentMethod.type),
       amount: String(parsedCart?.taxedPrice?.totalGross?.centAmount),
       //currency: String(parsedCart?.taxedPrice?.totalGross?.currencyCode),
-	  currency: "CHF",
+	  currency: "KRW",
       order_no: String(orderNumber),
       ...getNovalnetSystemInfo(request.data.path ?? config.merchantReturnUrl, packageJSON.version),
     };
@@ -3356,7 +3356,7 @@ private async getModificationFlags(paymentId: string, eventType: string, status?
       //       ?.currencyCode,
       //   ),
 		
-	  currency: "CHF",
+	  currency: "KRW",
 		  
       return_url:
         returnUrl,
